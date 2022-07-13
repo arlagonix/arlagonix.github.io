@@ -13,7 +13,7 @@
   
   <tr>
     <td colspan="5">
-      <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/FreeCodeCamp_logo.svg/2560px-FreeCodeCamp_logo.svg.png" height="20rem" alt="webDev's Github stats" />
+      <img align="left" src="images/FreeCodeCamp_logo.svg.png" height="20rem" alt="webDev's Github stats" />
     </td>
   </tr>
   
