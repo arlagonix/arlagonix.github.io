@@ -1,0 +1,144 @@
+:root {
+  --bg-color: #FFFEFC;
+  --color: #111;
+  --gray-1: #888;
+  --gray-2: rgba(0,0,0, .25);
+  --gray-3: rgba(0,0,0, .16); /* For box-shadow */
+  --gray-4: rgba(0,0,0, .06); /* For box-shadow */
+
+  --font-family: Arial, sans-serif;
+  --font-size-h1: 300%;
+  --font-size-h2: 115%
+}
+
+*, 
+::before, 
+::after {
+  box-sizing: border-box;
+  font-family: var(--font-family);
+  font-size: .95em;
+  background-color: var(--bg-color);
+  color: var(--color);
+}
+
+#main {
+  background-color: var(--bg-color);
+  margin: 1em 0;
+  padding: 2em 0;
+  border-radius: .5em;
+}
+
+#img-div {
+  width: 70em;
+  max-width: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2em auto;
+  padding: 1em 0;
+  border-radius: .5em;
+  transition: .3s;
+}
+
+#img-div:hover, 
+article:hover {
+  box-shadow: var(--gray-3) 0px 10px 36px 0px, var(--gray-4) 0px 0px 0px 1px;
+  background-color: white;
+}
+
+p, figcaption {
+  text-align: center;
+}
+
+#img-caption {
+  padding: auto 2em;
+}
+
+#image {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1em;
+}
+
+article {
+  display: block;
+  width: 85%;
+  max-width: 40em;
+  margin: 0 auto;
+  padding: 2em;
+  border-radius: .5em;
+  transition: .3s;
+}
+
+#title {
+  margin: 0;
+  font-size: var(--font-size-h1);
+  text-align: center;
+}
+
+h2 {
+  font-size: var(--font-size-h2);
+  margin: 0 0 2em 0;
+  text-align: center;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+ul li {
+  margin-bottom: 1em;
+  transition: transform .3s;
+}
+
+ul li:hover, 
+blockquote:hover {
+  transform: translate(1em, -.25em) scale(1.05);
+}
+
+ul li strong::after {
+  content:" — ";
+}
+
+hr {
+  margin: 2em auto;
+}
+
+blockquote {
+  margin: 0;
+  font-style: italic;
+  transition: .3s;
+}
+
+#tribute-info {
+  margin-top: 2em;
+  font-weight: bold;
+  font-size: var(--font-size-h2);
+}
+
+/* ADDITIONAL */
+
+::selection {
+  background-color: var(--gray-2);
+}
+
+::-webkit-scrollbar {
+  width: .4em;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-color);
+  
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--gray-2);
+  border-radius: .5em;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--gray-1);
+}
