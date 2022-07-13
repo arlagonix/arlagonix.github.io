@@ -7,8 +7,8 @@
     <th>Project name</th>
     <th>Description</th>
     <th>Technologies</th>
-    <th></th>
-    <th></th>
+    <th>Source code</th>
+    <th>Demo</th>
   </tr>
   
   <tr>
