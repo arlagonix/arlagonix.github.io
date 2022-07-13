@@ -4,8 +4,8 @@
   <tr>
     <th>Project name</th>
     <th>Description</th>
-    <th>Stack</th>
-    <th>Source code</th>
+    <th>Techonology Stack</th>
+    <th>Source Code</th>
     <th>Demo</th>
   </tr>
   
