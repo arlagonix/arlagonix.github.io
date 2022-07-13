@@ -16,7 +16,7 @@
 ::after {
   box-sizing: border-box;
   font-family: var(--font-family);
-  font-size: .95em;
+  font-size: 1.05em;
   background-color: var(--bg-color);
   color: var(--color);
 }
