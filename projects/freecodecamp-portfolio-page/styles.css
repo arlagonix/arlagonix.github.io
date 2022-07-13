@@ -1,0 +1,290 @@
+:root {
+  --main-white: #f5f5f5;
+  --main-black: #111;
+  --main-blue: #45567d;
+  --main-red: #BE3144;
+  --main-gray: #303841;
+  --secondary-gray-1: rgba(0,0,0, 0.5);
+
+  --font-standard: "Poppins", "Arial", sans-serif;
+  --font-specific: "Raleway", "Arial", sans-serif; /* For h1, h2 only */
+
+  --font-size-header: 64px;
+  --font-size-subheader: 24px;
+  --font-size-little: 14px;
+}
+
+*, ::before, ::after {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+/* GENERAL ELEMENTS */
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* NAV BAR */
+
+nav {
+  background-color: var(--main-red);
+
+  position: fixed;
+  z-index: 1; /* Otherwise some pages hide the navbar */
+  width: 100%;
+  padding: 0 16px;
+  border-bottom: 1px solid var(--main-black);
+
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
+nav > a {
+  color: var(--main-white);
+  font-family: var(--font-standard);
+
+  padding: 16px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+nav > a:hover {
+  background-color: var(--main-blue);
+}
+
+/* HEADER */
+
+header {
+  min-height: 100vh;
+  background: linear-gradient(
+    45deg,
+    #444,
+    black
+  );
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+header > h1 {
+  color: var(--main-white);
+  font-family: var(--font-specific);
+  font-size: var(--font-size-header);
+  
+  margin: 0;
+}
+
+header > p {
+  color: var(--main-red);
+  font-family: var(--font-standard);
+  font-size: var(--font-size-subheader);
+
+  margin-top: 16px;
+  font-style: italic;
+  font-weight: 200;
+}
+
+/* PROJECTS */
+
+#projects {
+  background-color: var(--main-blue);
+
+  min-height: 100vh;
+  position: relative;
+  padding: 64px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: center;
+}
+
+#projects > h2 {
+  font-family: var(--font-specific);
+  color: var(--main-white);
+  font-size: var(--font-size-header);
+
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+#projects > h2::before {
+  background: var(--main-white);
+
+  content: "";
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: -8px;
+  width: 100%;
+  max-width: 930px;
+  height: 2px;
+}
+
+#project-tiles {
+  width: 1000px;
+  margin: 0 auto;
+  max-width: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+#projects a {
+  text-decoration: none;
+}
+
+#projects article {
+  background-color: var(--secondary-gray-1);
+  width: 300px;
+}
+
+#projects article img {
+  height: 300px;
+  width: 100%;
+  object-fit: cover;
+}
+
+#projects article p {
+  color: var(--main-white);
+  font-family: var(--font-standard);
+
+  text-align: center;
+  padding: 16px 0;
+  margin: 0;
+}
+
+.brackets {
+  color: darkorange;
+  opacity: 0;
+  transition: .3s;
+}
+
+.project-tile:hover .brackets {
+  opacity: 1;
+}
+
+#show-all {
+  color: var(--main-white);
+  background-color: var(--secondary-gray-1);
+  font-family: var(--font-standard);
+
+  padding: 8px 16px;
+  transition: .3s ease-in-out;
+}
+
+#show-all i {
+  transition: .3s ease-in-out;
+  padding-left: 4px;
+}
+
+#show-all:hover {
+  background-color: var(--main-red);
+}
+
+#show-all:hover i {
+  transform: translateX(4px);
+}
+
+/* CONTACTS */
+
+#contacts {
+  background-color: var(--main-gray);
+
+  min-height: 90vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#contacts > h2 {
+  color: var(--main-white);
+  font-family: var(--font-specific);
+  font-size: var(--font-size-header);
+
+  margin: 0;
+  text-align: center;
+}
+
+#contacts > p {
+  color: var(--main-white);
+  font-family: var(--font-standard);
+  font-size: var(--font-size-little);
+
+  margin-top: 0;
+  font-style: italic;
+  font-weight: 200;
+}
+
+#links-wrapper {
+  padding-top: 16px;
+
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+}
+
+#links-wrapper a {
+  color: var(--main-white);
+  font-family: var(--font-standard);
+
+  text-decoration: none;
+  font-size: 18px;
+  transition: .3s ease-in-out;
+}
+
+#links-wrapper a:hover {
+  transform: translateY(8px);
+}
+
+/* FOOTER */
+
+footer {
+  background-color: var(--main-gray);
+  color: var(--main-white);
+  font-family: var(--font-standard);
+
+  min-height: 10vh;
+  text-align: center;
+  border-top: 2px solid var(--main-red);
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+footer a {
+  color: var(--main-white);
+}
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width: 480px) {
+  header > h1, #projects > h2, #contacts > h2 {
+    font-size: 32px;
+  }
+
+  header > p {
+    font-size: 18px;
+  }
+
+  /* 
+    Didn't use the grid. Flexbox is enough.
+    Wrap will take care of itself .
+    I love flexbox!
+  */
+}
