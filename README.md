@@ -5,8 +5,7 @@
     <th>Project name</th>
     <th>Description</th>
     <th>Techonology Stack</th>
-    <th>Source Code</th>
-    <th>Demo</th>
+    <th colspan="2">
   </tr>
   
   <tr>
