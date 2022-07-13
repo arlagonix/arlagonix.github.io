@@ -1,5 +1,3 @@
-# Web projects
-
 <table>
   
   <!-- HEADER -->
