@@ -4,7 +4,7 @@
   <tr>
     <th>Project name</th>
     <th>Description</th>
-    <th>Technologies</th>
+    <th>Stack</th>
     <th>Source code</th>
     <th>Demo</th>
   </tr>
