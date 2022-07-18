@@ -14,7 +14,19 @@
     </td>
   </tr>
   
-  <!-- JS DOCUMENTATION -->
+  <!-- QR CODE -->
+  <tr>
+    <td>QR Code</td>
+    <td>
+      See <a href="https://github.com/arlagonix/arlagonix.github.io/blob/main/projects/qr-code-component-main/Task.md">Task.md</a>
+    </td>
+    <td><img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
+<img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;</td>
+    <td><a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/qr-code-component-main">Source&nbsp;code</a></td>
+    <td><a href="https://arlagonix.github.io/projects/qr-code-component-main/">Demo</a></td>
+  </tr>
+  
+  <!-- PRODUCT PREVIEW CARD COMPONENT -->
   <tr>
     <td>Product Preview Card Component</td>
     <td>
