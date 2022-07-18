@@ -1,5 +1,4 @@
 <table>
-  
   <!-- HEADER -->
   <tr>
     <th>Project name</th>
@@ -111,5 +110,4 @@
     <td><a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/freecodecamp-product-landing-page">Source&nbsp;code</a></td>
     <td><a href="https://arlagonix.github.io/projects/freecodecamp-product-landing-page/">Demo</a></td>
   </tr>
-  
 </table>
