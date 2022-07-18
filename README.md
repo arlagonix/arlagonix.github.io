@@ -10,7 +10,7 @@
   
   <tr>
     <td colspan="5">
-      <a href="https://www.frontendmentor.io/"><strong>Frontend Mentor</strong></a>
+      <strong>Frontend Mentor (<a href="https://www.frontendmentor.io/profile/GrbnvAlex">@GrbnvAlex</a>)</strong>
     </td>
   </tr>
   
@@ -40,9 +40,7 @@
   
   <tr>
     <td colspan="5">
-      <img align="left" src="images/FreeCodeCamp_logo.svg.png" height="20rem" alt="webDev's Github stats" />
-      <br>
-      <a href="https://www.freecodecamp.org/certification/Arlagonix/responsive-web-design"><strong>FreeCodeCamp certification</strong></a>
+      <strong>FreeCodeCamp (<a href="https://www.freecodecamp.org/certification/Arlagonix/responsive-web-design">Certificate</a>)</strong>
     </td>
   </tr>
   
