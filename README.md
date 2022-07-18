@@ -1,10 +1,11 @@
 <table>
+  
   <!-- HEADER -->
   <tr>
     <th>Project name</th>
     <th>Description</th>
     <th>Techonology Stack</th>
-    <th colspan="2">
+    <th colspan="2"></th>
   </tr>
   
   <tr>
