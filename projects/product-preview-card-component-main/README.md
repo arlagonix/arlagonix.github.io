@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/product-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://arlagonix.github.io/projects/product-preview-card-component-main/)
+- Solution URL: [Github](https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/product-preview-card-component-main)
+- Live Site URL: [Github Pages](https://arlagonix.github.io/projects/product-preview-card-component-main/)
 
 ## My process
 
