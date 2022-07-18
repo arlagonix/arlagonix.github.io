@@ -30,15 +30,18 @@
 .card-wrapper {
   width: 90%;
   max-width: 1440px;
-  height: 60%;
-  min-height: 500px;
-  max-height: 1000px;
+  min-height: 600px;
+  height: 80%;
+  margin-top: 8rem;
   background: var(--cream);
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 2rem;
+  padding: 4rem;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  flex-direction: column;
+  border-radius: 2rem;
+  transition: .3s;
 }
 
 /* TEXT */
@@ -78,7 +81,7 @@
   background-color: var(--white);
   border-radius: 1rem;
   overflow: hidden;
-  flex-grow: 1;
+  transition: .3s;
 }
 
 .card__image {
@@ -87,11 +90,14 @@
   background-size: cover;
   display: block;
   min-height: 300px;
+  transition: .3s;
+  overflow: hidden;
 }
 
 .card__content {
   width: 50%;
-  padding: 2rem ;
+  padding: 2rem;
+  z-index: 1;
 }
 
 .card__prod-type {
@@ -135,10 +141,17 @@
   border: none;
   border-radius: .5rem;
   display: flex;
-  align-items: center;
   justify-content: center;
   gap: .5rem;
+  vertical-align: bottom;
   transition: .3s;
+  position: relative;
+  justify-self: flex-end;
+}
+
+.icon {
+  position: relative;
+  transform: translateY(5%); /* Helps to avoid "blinking" effect on hover :( */
 }
 
 .button:hover {
@@ -171,7 +184,18 @@
   background: var(--very-dark-blue);
 }
 
-@media (max-width: 650px) {
+@media (max-width: 850px) {
+  .card__prices {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .card {
+    min-height: 500px;
+  }
+}
+
+@media (max-width: 775px) {
   .page {
     justify-content: initial;
   }
@@ -185,6 +209,8 @@
     height: auto;
     min-height: auto;
     box-shadow: none;
+    margin-top: 0;
+    border-radius: 0;
   }
 
   .card__image {
@@ -195,6 +221,11 @@
 
   .card__content {
     width: 100%;
+  }
+
+  .card__prices {
+    flex-direction: row;
+    align-items: center;
   }
 
   .card__old-price {

@@ -4,7 +4,7 @@
 
 The designs were created to the following widths:
 
-- Mobile: 375px
+- Mobile: 375px (_it appeared to be very small, so I changed it to 775px, also added another breakdown at 850px_ )
 - Desktop: 1440px
 
 ## Colors
@@ -19,6 +19,7 @@ The designs were created to the following widths:
 - Very dark blue: hsl(212, 21%, 14%)
 - Dark grayish blue: hsl(228, 12%, 48%)
 - White: hsl(0, 0%, 100%)
+  (_added another gray color for text_)
 
 ## Typography
 
