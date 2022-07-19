@@ -32,8 +32,8 @@ Users should be able to:
 
 ### 🔗 Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/testimonials-grid-section-main)
+- Live Site URL: [Github Pages](https://arlagonix.github.io/projects/testimonials-grid-section-main/)
 
 ## My process
 
