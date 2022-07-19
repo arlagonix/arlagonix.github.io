@@ -68,6 +68,7 @@ Flexbox is easier, tbh. Although for the cases similar to this task using grid l
 ### 🔗 Useful resources
 
 - [Codepen: Hyperplexed](https://codepen.io/Hyperplexed/pen/vYpXNJd) - Got some inspiration for the hover animations
+- [Codepen: Epogee Design](https://codepen.io/epogeedesign/pen/dyGOZoQ?editors=1100) - Got background gradient animation
 
 ## Author
 
