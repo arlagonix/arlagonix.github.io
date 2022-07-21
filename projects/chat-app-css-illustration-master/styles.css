@@ -364,6 +364,7 @@
   width: 4rem;
   height: 4rem;
   border-radius: .5rem;
+  transition: .3s;
 }
 
 /* MESSAGES */
@@ -393,6 +394,7 @@
   padding: 1rem 1rem;
   border-radius: 1rem 1rem 1rem .25rem;
   max-width: 100%;
+  transition: .3s;
 }
 
 .price:focus-within,
@@ -494,12 +496,12 @@
 .message:hover,
 .iphone__gallery-image:hover,
 .price:hover {
-  animation: small-and-big;
+  /* animation: small-and-big;
   animation-duration: .8s;
   animation-timing-function: ease-in-out;
   animation-iteration-count: infinite;
-  animation-direction: alternate-reverse;
-  
+  animation-direction: alternate-reverse; */
+  transform: scale(.95)
 }
 
 @keyframes small-and-big {
