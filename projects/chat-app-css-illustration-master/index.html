@@ -20,7 +20,7 @@
     ></script>
     <div class="blob blob--left"></div>
     <div class="blob blob--right"></div>
-    <section class="iphone">
+    <div class="iphone">
       <!-- Iphone code: https://codepen.io/nordchetbi/pen/XyzNyO?editors=1100 -->
       <div class="iphone__outer absolute"></div>
       <div class="iphone__inner absolute"></div>
@@ -37,7 +37,7 @@
       <div class="iphone__vol iphone__vol--up absolute"></div>
       <div class="iphone__vol iphone__vol--down absolute"></div>
       <div class="iphone__mute absolute"></div>
-      
+
       <div class="iphone__screen">
         <nav class="iphone__top">
           <i class="text fa-solid fa-chevron-left"></i>
@@ -52,7 +52,7 @@
           </div>
           <i class="text fa-solid fa-ellipsis-vertical"></i>
         </nav>
-        <article class="iphone__message-list">
+        <div class="iphone__message-list">
           <p class="message text--chat text--chat-left">
             That sounds great. I'd be happy with that.
           </p>
@@ -83,17 +83,28 @@
             Can you make it?
           </p>
           <p class="message text--chat text--chat-left">
-            She looks so happy! The time we discussed works. How long shall I take
-            her out for?
+            She looks so happy! The time we discussed works. How long shall I
+            take her out for?
           </p>
+
           <label class="price">
-            <input type="radio" class="price__input" name="duration" value="30" />
+            <input
+              type="radio"
+              class="price__input"
+              name="duration"
+              value="30"
+            />
             <div class="price__radio"></div>
             <p class="price__label text--chat-duration">30 minute walk</p>
             <p class="text--chat-price">$29</p>
           </label>
           <label class="price" tabindex="0">
-            <input type="radio" class="price__input" name="duration" value="60" />
+            <input
+              type="radio"
+              class="price__input"
+              name="duration"
+              value="60"
+            />
             <div class="price__radio"></div>
             <p class="price__label text--chat-duration">1 hour walk</p>
             <p class="text--chat-price">$49</p>
@@ -108,9 +119,10 @@
               <i class="fa-solid fa-chevron-right text"></i>
             </button>
           </label>
-        </article>
-    </section>
-    <section class="description">
+        </div>
+      </div>
+    </div>
+    <main class="description">
       <header class="header">
         <h1 class="text--header">Simple booking</h1>
       </header>
@@ -128,7 +140,7 @@
           >
           for
           <a
-            href="https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/"
+            href="https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY"
             target="_blank"
             class="link"
           >
@@ -136,6 +148,6 @@
           </a>
         </p>
       </footer>
-    </section>
+    </main>
   </body>
 </html>
