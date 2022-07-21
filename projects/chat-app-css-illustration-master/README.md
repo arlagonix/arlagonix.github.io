@@ -110,4 +110,4 @@ Used it to change the scale of the iphone for different widhts. Initially tried 
 
 - Frontend Mentor - [@GrbnvAlex](https://www.frontendmentor.io/profile/GrbnvAlex)
 - Telegram - [@Arlagonix](https://t.me/Arlagonix)
-- Gihub - [@arlagonix](https://github.com/arlagonix)
+- Github - [@arlagonix](https://github.com/arlagonix)
