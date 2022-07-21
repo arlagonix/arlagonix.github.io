@@ -74,4 +74,4 @@ Flexbox is easier, tbh. Although for the cases similar to this task using grid l
 
 - Frontend Mentor - [@GrbnvAlex](https://www.frontendmentor.io/profile/GrbnvAlex)
 - Telegram - [@Arlagonix](https://t.me/Arlagonix)
-- Gihub - [@arlagonix](https://github.com/arlagonix)
+- Github - [@arlagonix](https://github.com/arlagonix)
