@@ -100,6 +100,7 @@
   overflow: hidden; 
   border-bottom: 4px rgba(255, 255, 255, 0.185) solid;
   cursor: pointer;
+  border-radius: 2rem;
 }
 
 .card__bg-image {
@@ -221,7 +222,7 @@
 /* FOOTER */
 
 .footer {
-  max-width: 400px;
+  max-width: 450px;
   width: 95%;
   background: rgba(255, 255, 255, 0.75);
   backdrop-filter: blur(8px);
