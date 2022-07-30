@@ -112,10 +112,12 @@
 
 .card__bg:hover .card__bg-image {
   transform: scale(1.25);
+  filter: hue-rotate(45deg);
 }
 
 .card__bg:active .card__bg-image {
   transform: scale(1);
+  filter: hue-rotate(90deg);
 }
 
 .card__content {
