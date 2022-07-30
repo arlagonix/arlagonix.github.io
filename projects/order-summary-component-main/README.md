@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/chat-app-css-illustration-master)
-- Live Site URL: [Github Pages](https://arlagonix.github.io/projects/chat-app-css-illustration-master)
+- Solution URL: [Github](https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/order-summary-component-main)
+- Live Site URL: [Github Pages](https://arlagonix.github.io/projects/order-summary-component-main)
 
 ## My process
 
