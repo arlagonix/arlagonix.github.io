@@ -14,6 +14,18 @@
     </td>
   </tr>
   
+  <!-- ORDER SUMMARY COMPONENT -->
+  <tr>
+    <td>Order Summary Component</td>
+    <td>
+      See <a href="https://github.com/arlagonix/arlagonix.github.io/blob/main/projects/order-summary-component-main/Task.md">Task.md</a>
+    </td>
+    <td><img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
+<img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;</td>
+    <td><a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/order-summary-component-main">Source&nbsp;code</a></td>
+    <td><a href="https://arlagonix.github.io/projects/order-summary-component-main/">Demo</a></td>
+  </tr>
+  
   <!-- CHAT APP CSS ILLUSTRATION -->
   <tr>
     <td>Chat App CSS Illustration</td>
