@@ -1,50 +1,59 @@
-# Frontend Mentor - Order summary card solution
+# Order summary card solution 
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-
-## Overview
-
-### The challenge
-
-Users should be able to:
-
-- See hover states for interactive elements
-
-### Screenshot
 
 <p align="center">
   <img src="./design/result/screenshot.jpg" width="100%">
+  <a href="https://arlagonix.github.io/projects/order-summary-component-main/">Open demo in Github Pages</a>
+
 </p>
 
-### Links
+## About
 
-- Solution URL: [Github](https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/order-summary-component-main)
-- Live Site URL: [Github Pages](https://arlagonix.github.io/projects/order-summary-component-main)
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).
 
-## My process
+* **Build out an order summary card component**. 
+  * `/design` - Folder with  designs. Contains both a mobile and a desktop version of the design. 
+  * `/images` - Folder with assets. The assets are already optimized.
+  * `style-guide.md` - File with the style information: color palette, fonts, etc.
+* **Get it looking as close to the design as possible**. 
+* **Use any tools to like**. You can use any tools you like to help you complete the challenge**. So if you've got something you'd like to practice, feel free to give it a go.
+* **Your users should be able to**:
+  * See hover states for interactive elements
 
-### Built with
+## Instruments
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+* **HTML5**
+  * Semantic HTML
+* **CSS**
+  * Flexbox
+  * Responsive design
+  * BEM naming convention
+* **Github Pages** - for hosting purposes
 
-### What I learned
+## Features
 
-**How to create a glassy effect**<br>
-White background + some opacity to the background color + `backdrop-filer`
+* **Glassy effect**. Card and footer have glassy effect
+* **Hover and click animation on image**. Plus filter
+* **Smooth animation**. `transition: 0.3s`
+* **Hover and click animation on buttons**
+* **Waves on background**. See this [codepen](https://codepen.io/goodkatz/pen/LYPGxQz?editors=1100)
+
+## Author
+
+* Frontend Mentor - [@GrbnvAlex](https://www.frontendmentor.io/profile/GrbnvAlex)
+* Telegram - [@Arlagonix](https://t.me/Arlagonix)
+* Github - [@arlagonix](https://github.com/arlagonix)
+
+## Useful resources
+
+- [Codepen : Goodkatz : Simple CSS Waves](https://codepen.io/goodkatz/pen/LYPGxQz?editors=1100) - Awesome moving waves
+- [Codepen : Barbara Rodriguez : Gradient background with waves](https://codepen.io/baarbaracrr/pen/KKovmGb?editors=1100) - Moving background
+
+## Additional information
+ 
+### Glassy effect
+
+White background + some opacity to the background color + `backdrop-filter`
 
 ```css
 .class-name {
@@ -53,13 +62,40 @@ White background + some opacity to the background color + `backdrop-filer`
 }
 ```
 
-### Useful resources
+### Smooth button animation
 
-- [Codepen : Goodkatz : Simple CSS Waves](https://codepen.io/goodkatz/pen/LYPGxQz?editors=1100) - Awesome moving waves
-- [Codepen : Barbara Rodriguez : Gradient background with waves](https://codepen.io/baarbaracrr/pen/KKovmGb?editors=1100) - Moving background
+```css
+.button {
+  cursor: pointer;
+  transition: .3s;
+  width: 100%;
+  border: none;
+  font-size: 1rem;
+  font-weight: 900;
+  border-radius: .75rem;
+}
 
-## Author
+.button:hover {
+  transform: scale(.95);
+}
 
-- Frontend Mentor - [@GrbnvAlex](https://www.frontendmentor.io/profile/GrbnvAlex)
-- Telegram - [@Arlagonix](https://t.me/Arlagonix)
-- Github - [@arlagonix](https://github.com/arlagonix)
+.button:active {
+  transform: scale(.85);
+}
+```
+
+### Card image animation with `hue-rotate`
+
+```css
+.card__bg:hover .card__bg-image {
+  transform: scale(1.25);
+  filter: hue-rotate(45deg);
+}
+
+.card__bg:active .card__bg-image {
+  transform: scale(1);
+  filter: hue-rotate(90deg);
+}
+```
+
+
