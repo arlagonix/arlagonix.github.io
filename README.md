@@ -3,6 +3,10 @@
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=plastic&logo=css3&logoColor=white">
 <img alt="BEM methodology" src="https://img.shields.io/badge/Methodology-BEM-green?style=plastic">
 <img alt="tes" src="https://img.shields.io/badge/Responsive-Yes-green?style=plastic">
+<img alt="BEM" src="https://img.shields.io/badge/Naming_convention-BEM-green?style=plastic">
+<br>
+sdf
+<a href="google.com"><img alt="BEM" src="https://img.shields.io/badge/Naming_convention-BEM-green?style=plastic"></a>
 
 
 <table>
@@ -18,6 +22,7 @@
   <tr>
     <td colspan="5">
       <strong>Frontend Mentor (<a href="https://www.frontendmentor.io/profile/GrbnvAlex">@GrbnvAlex</a>)</strong>
+     <img alt="Responsive" src="https://img.shields.io/badge/Frontend_Mentor-lightgrey?style=for-the-badge">
     </td>
   </tr>
   
@@ -31,9 +36,9 @@
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
      <br>
-     <img alt="BEM methodology" src="https://img.shields.io/badge/Methodology-BEM-green?style=plastic">
-     <br>
      <img alt="lightgrey" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
+     <img alt="BEM" src="https://img.shields.io/badge/-BEM-lightgrey?style=flat">
+     <img alt="Responsive" src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
    </td>
     <td><a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/order-summary-component-main">Source&nbsp;code</a></td>
     <td><a href="https://arlagonix.github.io/projects/order-summary-component-main/">Demo</a></td>
