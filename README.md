@@ -6,7 +6,7 @@
 <img alt="BEM" src="https://img.shields.io/badge/Naming_convention-BEM-green?style=plastic">
 <br>
 sdf
-<a href="google.com"><img alt="BEM" src="https://img.shields.io/badge/Naming_convention-BEM-green?style=plastic"></a>
+<a href="www.google.com"><img alt="BEM" src="https://img.shields.io/badge/Naming_convention-BEM-green?style=plastic"></a>
 
 
 <table>
