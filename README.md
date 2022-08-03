@@ -1,3 +1,10 @@
+ <img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
+<img alt="brightgreen" src="https://img.shields.io/badge/-HTML-red?style=plastic&logo=html5&logoColor=white">
+<img alt="brightgreen" src="https://img.shields.io/badge/-CSS-blue?style=plastic&logo=css3&logoColor=white">
+<img alt="tes" src="https://img.shields.io/badge/Methodology-BEM-green?style=plastic">
+<img alt="tes" src="https://img.shields.io/badge/Responsive-Yes-green?style=plastic">
+<img alt="lightgrey" src="https://img.shields.io/badge/-flexbox-lightgrey">
+
 <table>
   
   <!-- HEADER -->
@@ -21,6 +28,8 @@
       See <a href="https://github.com/arlagonix/arlagonix.github.io/blob/main/projects/order-summary-component-main/Task.md">Task.md</a>
     </td>
     <td><img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
+    <img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
+    <img alt="brightgreen" src="https://img.shields.io/badge/-HTML5-red">
 <img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;</td>
     <td><a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/order-summary-component-main">Source&nbsp;code</a></td>
     <td><a href="https://arlagonix.github.io/projects/order-summary-component-main/">Demo</a></td>
