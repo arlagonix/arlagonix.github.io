@@ -38,12 +38,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 * **Hover and click animation on buttons**
 * **Waves on background**. See this [codepen](https://codepen.io/goodkatz/pen/LYPGxQz?editors=1100)
 
-## Author
-
-* Frontend Mentor - [@GrbnvAlex](https://www.frontendmentor.io/profile/GrbnvAlex)
-* Telegram - [@Arlagonix](https://t.me/Arlagonix)
-* Github - [@arlagonix](https://github.com/arlagonix)
-
 ## Useful resources
 
 - [Codepen : Goodkatz : Simple CSS Waves](https://codepen.io/goodkatz/pen/LYPGxQz?editors=1100) - Awesome moving waves
@@ -123,3 +117,8 @@ Removed unnecessary properties
 }
 ```
 
+## Author
+
+* Frontend Mentor - [@GrbnvAlex](https://www.frontendmentor.io/profile/GrbnvAlex)
+* Telegram - [@Arlagonix](https://t.me/Arlagonix)
+* Github - [@arlagonix](https://github.com/arlagonix)
