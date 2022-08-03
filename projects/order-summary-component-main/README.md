@@ -28,7 +28,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   * Flexbox
   * Responsive design
   * BEM naming convention
-* **Github Pages** - for hosting purposes
+* **Github Pages** - for hosting
 
 ## Features
 
