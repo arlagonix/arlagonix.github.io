@@ -6,8 +6,44 @@
 <img alt="BEM" src="https://img.shields.io/badge/Naming_convention-BEM-green?style=plastic">
 <br>
 sdf
-<a href="https://www.google.com"><img alt="BEM" src="https://img.shields.io/badge/Naming_convention-BEM-green?style=plastic"></a>
+<br>
+<a href="https://www.google.com"><img alt="BEM" src="https://img.shields.io/badge/Source code_&_Docs-Click_to_open-blue"></a>
+<br>
+<a href="https://www.google.com"><img alt="BEM" src="https://img.shields.io/badge/Demo-Click_to_open-blue"></a>
 
+
+<table>
+  
+  <!-- HEADER -->
+  <tr>
+    <th>Project</th>
+    <th>Techonology Stack</th>
+    <th></th>
+  </tr>
+  
+  <tr>
+    <td colspan="5">
+      <strong>Frontend Mentor (<a href="https://www.frontendmentor.io/profile/GrbnvAlex">@GrbnvAlex</a>)</strong>
+    </td>
+  </tr>
+  
+  <!-- ORDER SUMMARY COMPONENT -->
+  <tr>
+    <td>Order Summary Component</td>
+    <td>
+     <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
+     <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
+     <br>
+     <img alt="lightgrey" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
+     <img alt="BEM" src="https://img.shields.io/badge/-BEM-lightgrey?style=flat">
+     <img alt="Responsive" src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
+   </td>
+    <td align="right">
+     <a href="[https://www.google.com](https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/order-summary-component-main)"><img alt="Source code and docs" src="https://img.shields.io/badge/Source code_&_Docs-Click_to_open-blue"></a>
+     <br>
+     <a href="https://arlagonix.github.io/projects/order-summary-component-main/"><img alt="Demo page" src="https://img.shields.io/badge/Demo-Click_to_open-blue"></a>
+   </td>
+</table>
 
 <table>
   
@@ -22,7 +58,6 @@ sdf
   <tr>
     <td colspan="5">
       <strong>Frontend Mentor (<a href="https://www.frontendmentor.io/profile/GrbnvAlex">@GrbnvAlex</a>)</strong>
-     <img alt="Responsive" src="https://img.shields.io/badge/Frontend_Mentor-lightgrey?style=for-the-badge">
     </td>
   </tr>
   
@@ -41,7 +76,14 @@ sdf
      <img alt="Responsive" src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
    </td>
     <td><a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/order-summary-component-main">Source&nbsp;code</a></td>
-    <td><a href="https://arlagonix.github.io/projects/order-summary-component-main/">Demo</a></td>
+    <td align="right">
+     <a href="https://arlagonix.github.io/projects/order-summary-component-main/">Demo</a>
+     <br>
+     <a href="https://www.google.com"><img alt="BEM" src="https://img.shields.io/badge/Source code_&_Docs-Click_to_open-blue"></a>
+     <br>
+     <a href="https://www.google.com"><img alt="BEM" src="https://img.shields.io/badge/Demo-Click_to_open-blue"></a>
+   </td>
+   
   </tr>
   
   <!-- CHAT APP CSS ILLUSTRATION -->
