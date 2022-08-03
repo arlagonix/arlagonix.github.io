@@ -4,12 +4,6 @@
 <img alt="BEM methodology" src="https://img.shields.io/badge/Methodology-BEM-green?style=plastic">
 <img alt="tes" src="https://img.shields.io/badge/Responsive-Yes-green?style=plastic">
 <img alt="BEM" src="https://img.shields.io/badge/Naming_convention-BEM-green?style=plastic">
-<br>
-sdf
-<br>
-<a href="https://www.google.com"><img alt="BEM" src="https://img.shields.io/badge/Source code_&_Docs-Click_to_open-blue"></a>
-<br>
-<a href="https://www.google.com"><img alt="BEM" src="https://img.shields.io/badge/Demo-Click_to_open-blue"></a>
 
 
 <table>
@@ -35,13 +29,13 @@ sdf
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
      <br>
      <img alt="lightgrey" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
-     <img alt="BEM" src="https://img.shields.io/badge/-BEM-lightgrey?style=flat">
+     <img alt="BEM" src="https://img.shields.io/badge/-BEM-lightgray?style=flat">
      <img alt="Responsive" src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
-   </td>
+    </td>
     <td align="right">
-     <a href="[https://www.google.com](https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/order-summary-component-main)"><img alt="Source code and docs" src="https://img.shields.io/badge/Source code_&_Docs-Click_to_open-blue"></a>
+     <a href="https://arlagonix.github.io/projects/order-summary-component-main/"><img alt="Demo page" src="https://img.shields.io/badge/Demo-Click_to_open-blueviolet"></a>
      <br>
-     <a href="https://arlagonix.github.io/projects/order-summary-component-main/"><img alt="Demo page" src="https://img.shields.io/badge/Demo-Click_to_open-blue"></a>
+     <a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/order-summary-component-main"><img alt="Source code and docs" src="https://img.shields.io/badge/Source code_&_Docs-Click_to_open-blueviolet"></a>
    </td>
 </table>
 
