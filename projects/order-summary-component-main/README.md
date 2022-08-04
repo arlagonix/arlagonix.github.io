@@ -10,7 +10,7 @@
   <img src="./design/result/screenshot.jpg" width="100%">
 </p>
 
-## About
+## ℹ️ About
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).
 
@@ -23,7 +23,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 * **Your users should be able to**:
   * See hover states for interactive elements
 
-## Instruments
+## ⚙️ Instruments
 
 * **HTML5**
   * Semantic HTML
@@ -33,7 +33,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   * BEM naming convention
 * **Github Pages** - for hosting
 
-## Features
+## 💡 Features
 
 * **Glassy effect**. Card and footer have glassy effect
 * **Hover and click animation on image**. Plus filter
@@ -41,12 +41,12 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 * **Hover and click animation on buttons**
 * **Waves on background**. See this [codepen](https://codepen.io/goodkatz/pen/LYPGxQz?editors=1100)
 
-## Useful resources
+## 🔗 Useful resources
 
 - [Codepen : Goodkatz : Simple CSS Waves](https://codepen.io/goodkatz/pen/LYPGxQz?editors=1100) - Awesome moving waves
 - [Codepen : Barbara Rodriguez : Gradient background with waves](https://codepen.io/baarbaracrr/pen/KKovmGb?editors=1100) - Moving background
 
-## Additional information
+## 📍 Additional information
  
 ### Glassy effect
 
