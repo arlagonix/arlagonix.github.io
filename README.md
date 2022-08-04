@@ -3,12 +3,13 @@
   <!-- HEADER -->
   <tr>
     <th>Project</th>
+    <th>Date</th>
     <th>Techonology Stack</th>
     <th>Demo</th>
   </tr>
   
   <tr>
-    <td colspan="3">
+    <td colspan="100">
       <strong>Frontend Mentor</strong>
       <br>
       <a href="https://www.frontendmentor.io/profile/GrbnvAlex">@GrbnvAlex</a>
@@ -22,6 +23,7 @@
       Order Summary Component
      </a>
     </td>
+    <td><code>Jul 2022</code></td>
     <td>
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
@@ -44,6 +46,7 @@
       Chat App CSS Illustration
      </a>
     </td>
+    <td><code>Jul 2022</code></td>
     <td>
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
@@ -66,6 +69,7 @@
       Testimonials Grid Section
      </a>
     </td>
+    <td><code>Jul 2022</code></td>
     <td>
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
@@ -89,6 +93,7 @@
       QR Code
      </a>
     </td>
+    <td><code>Jul 2022</code></td>
     <td>
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
@@ -110,6 +115,7 @@
       Product Preview Card Component
      </a>
     </td>
+    <td><code>Jul 2022</code></td>
     <td>
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
@@ -126,7 +132,7 @@
   </tr>
    
   <tr>
-    <td colspan="3">
+    <td colspan="100">
       <strong>FreeCodeCamp</strong>
       <br>
       <a href="https://www.freecodecamp.org/Arlagonix">@Arlagonix</a> ∙ <a href="https://www.freecodecamp.org/certification/Arlagonix/responsive-web-design">Responsive Web Design Certification</a>
@@ -140,6 +146,7 @@
       Portfolio Page
      </a>
     </td>
+    <td><code>Jul 2022</code></td>
     <td>
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
@@ -161,6 +168,7 @@
       Product Landing Page
      </a>
     </td>
+    <td><code>Jul 2022</code></td>
     <td>
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
@@ -182,6 +190,7 @@
       JS Documentation
      </a>
     </td>
+    <td><code>Jul 2022</code></td>
     <td>
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
@@ -202,6 +211,7 @@
       Tribute Page
      </a>
     </td>
+    <td><code>Jul 2022</code></td>
     <td>
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
