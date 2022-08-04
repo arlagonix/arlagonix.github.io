@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>
-    <a href="https://arlagonix.github.io/projects/freecodecamp-portfolio-page">Open demo in Github Pages</a>
+    <a href="https://arlagonix.github.io/projects/freecodecamp-js-documentation">Open demo in Github Pages</a>
   </strong>
 </p>
 
