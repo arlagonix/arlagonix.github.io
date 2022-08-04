@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <strong>
-    <a href="https://arlagonix.github.io/projects/order-summary-component-main/">Open demo in Github Pages</a>
+    <a href="https://arlagonix.github.io/projects/order-summary-component-main/">Open Demo in Github Pages</a>
   </strong>
 </h3>
 
