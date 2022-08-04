@@ -4,7 +4,7 @@
   <tr>
     <th>Project</th>
     <th>Techonology Stack</th>
-    <th></th>
+    <th>Demo</th>
   </tr>
   
   <tr>
