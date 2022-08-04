@@ -1,58 +1,45 @@
-# Frontend Mentor - Product preview card component solution
-
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
-
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-- See hover and focus states for interactive elements
-
-### Screenshot
-
-<img src="./images/solution/large.jpg" width="100%">
+# Product preview card component solution
 
 <p align="center">
-  <img src="./images/solution/small.jpg" width="50%">
+  <strong>
+    <a href="https://arlagonix.github.io/projects/product-preview-card-component-main">Open demo in Github Pages</a>
+  </strong>
 </p>
 
-### Links
+<p align="center">
+  <img src="./images/solution/solution.jpg" width="100%">
+</p>
 
-- Solution URL: [Github](https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/product-preview-card-component-main)
-- Live Site URL: [Github Pages](https://arlagonix.github.io/projects/product-preview-card-component-main/)
+## ℹ️ About
+  
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
 
-## My process
+* **Build out a product preview card component**
+  * `/design` - Folder with  designs. Contains both a mobile and a desktop version of the design. 
+  * `/images` - Folder with assets. The assets are already optimized.
+  * `style-guide.md` - File with the style information: color palette, fonts, etc.
+* **Get it looking as close to the design as possible**. 
+* **Use any tools to like**. You can use any tools you like to help you complete the challenge**. So if you've got something you'd like to practice, feel free to give it a go.
 
-### Built with
+## ⚙️ Tools
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+* **HTML5**
+  * Semantic HTML
+* **CSS**
+  * BEM naming convention
+  * Responsive design
+  * Flexbox
+* **Github Pages** - for hosting
 
-### What I learned
+## 💡 Features
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+* **Animation on hover and click**. Click on the button
 
-**Found out how to make nice button animations:**
+## 📍 Additional information
+
+### Nice button animations
+
+Found out how to make nice button animations:
 
 ```css
 .button {
@@ -70,11 +57,17 @@ Use this section to recap over some of your major learnings while working throug
 }
 ```
 
-**Animation on window resize**. Also found out that `transition: .3s;` helps to add nice animations on media queries when you resize the window.
+### Animation on window resize**
 
-**Appeared to be more difficult than expected**. It ocurred that such a simple card required much more time and effort to develop than I had thought. I still need more and more practice with CSS.
+Also found out that `transition: .3s;` helps to add nice animations on media queries when you resize the window.
 
-**Experimented with horizontal rulers**. That helped me not to set manually margins for each element. Saw such a solution on one project long ago.
+### Appeared to be more difficult than expected
+
+It ocurred that such a simple card required much more time and effort to develop than I had thought. I still need more and more practice with CSS.
+
+### Experimented with horizontal rulers
+
+That helped me not to set manually margins for each element. Saw such a solution on one project long ago.
 
 ```html
 <article class="card__content">
@@ -112,23 +105,14 @@ Use this section to recap over some of your major learnings while working throug
 }
 ```
 
-**Tried to use BEM**. Well, it ocurred to be better than my previous custom solutions. It added order to the code, helped to clearly distinguish html from css via classes. Previously I used tag selectors, descendant selectors in css, found that such approach made the code more difficult to read.
+### Tried to use BEM
 
-**Flexbox is a great instrument!**
+Well, it ocurred to be better than my previous custom solutions. It added order to the code, helped to clearly distinguish html from css via classes. Previously I used tag selectors, descendant selectors in css, found that such approach made the code more difficult to read.
 
-### Continued development
+### Flexbox is a great instrument!
 
-Need more practice with CSS, HTML. Just need to make the things faster.
+## 👤 Author
 
-### Useful resources
-
-Stackoverflow helped to cover some issues.
-
-## Author
-
-- Frontend Mentor - [@GrbnvAlex](https://www.frontendmentor.io/profile/GrbnvAlex)
-- Telegram - [@Arlagonix](https://t.me/Arlagonix)
-
-## Acknowledgments
-
-Thanks to the Frontend Mentor team for helping other people to master their web development skills!
+* Frontend Mentor - [@GrbnvAlex](https://www.frontendmentor.io/profile/GrbnvAlex)
+* Telegram - [@Arlagonix](https://t.me/Arlagonix)
+* Github - [@arlagonix](https://github.com/arlagonix)
