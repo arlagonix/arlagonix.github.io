@@ -62,6 +62,6 @@ code:hover {
 
 ## 👤 Author
 
-* Frontend Mentor - [@GrbnvAlex](https://www.frontendmentor.io/profile/GrbnvAlex)
+* FreeCodeCamp - [@Arlagonix](https://www.freecodecamp.org/Arlagonix)
 * Telegram - [@Arlagonix](https://t.me/Arlagonix)
 * Github - [@arlagonix](https://github.com/arlagonix)
