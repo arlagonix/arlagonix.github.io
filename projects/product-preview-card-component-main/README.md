@@ -7,7 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="./images/solution/solution.jpg" width="100%">
+  <img src="./images/solution/large.jpg" width="100%">
+</p>
+
+<p align="center">
+  <img src="./images/solution/small.jpg" width="50%">
 </p>
 
 ## ℹ️ About
