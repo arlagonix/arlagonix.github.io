@@ -1,10 +1,10 @@
 # Product preview card component solution
 
-<p align="center">
+<h3 align="center">
   <strong>
-    <a href="https://arlagonix.github.io/projects/product-preview-card-component-main">Open demo in Github Pages</a>
+    <a href="https://arlagonix.github.io/projects/product-preview-card-component-main">Open Demo in Github Pages</a>
   </strong>
-</p>
+</h3>
 
 <p align="center">
   <img src="./images/solution/large.jpg" width="100%">
