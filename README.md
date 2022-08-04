@@ -9,7 +9,9 @@
   
   <tr>
     <td colspan="3">
-      <strong>Frontend Mentor</strong> ∙ <a href="https://www.frontendmentor.io/profile/GrbnvAlex">@GrbnvAlex</a>
+      <strong>Frontend Mentor</strong>
+      <br>
+      <a href="https://www.frontendmentor.io/profile/GrbnvAlex">@GrbnvAlex</a>
     </td>
   </tr>
   
@@ -29,11 +31,9 @@
      <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
     </td>
     <td>
-     <strong>
       <a href="https://arlagonix.github.io/projects/order-summary-component-main/">
        Open Demo
       </a>
-     </strong>
    </td>
   </tr>
    
@@ -53,11 +53,9 @@
      <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
     </td>
     <td>
-     <strong>
       <a href="https://arlagonix.github.io/projects/chat-app-css-illustration-master">
        Open Demo
       </a>
-     </strong>
    </td>
   </tr>
    
@@ -78,11 +76,9 @@
      <img alt="Grid" src="https://img.shields.io/badge/-grid-lightgrey?style=flat">
     </td>
     <td>
-     <strong>
       <a href="https://arlagonix.github.io/projects/testimonials-grid-section-main">
        Open Demo
       </a>
-     </strong>
    </td>
   </tr>
    
@@ -101,11 +97,9 @@
      <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
     </td>
     <td>
-     <strong>
       <a href="https://arlagonix.github.io/projects/qr-code-component-main">
        Open Demo
       </a>
-     </strong>
    </td>
   </tr>
   
@@ -125,17 +119,17 @@
      <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
     </td>
     <td>
-     <strong>
       <a href="https://arlagonix.github.io/projects/product-preview-card-component-main">
        Open Demo
       </a>
-     </strong>
    </td>
   </tr>
    
   <tr>
     <td colspan="3">
-      <strong>FreeCodeCamp</strong> ∙ <a href="https://www.freecodecamp.org/Arlagonix">@Arlagonix</a> ∙ <a href="https://www.freecodecamp.org/certification/Arlagonix/responsive-web-design">Responsive Web Design Certification</a>
+      <strong>FreeCodeCamp</strong>
+      <br>
+      <a href="https://www.freecodecamp.org/Arlagonix">@Arlagonix</a> ∙ <a href="https://www.freecodecamp.org/certification/Arlagonix/responsive-web-design">Responsive Web Design Certification</a>
     </td>
   </tr>
   
@@ -154,11 +148,9 @@
      <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
     </td>
     <td>
-     <strong>
       <a href="https://arlagonix.github.io/projects/freecodecamp-portfolio-page">
        Open Demo
       </a>
-     </strong>
    </td>
   </tr>
   
@@ -177,11 +169,9 @@
      <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
     </td>
     <td>
-     <strong>
       <a href="https://arlagonix.github.io/projects/freecodecamp-product-landing-page">
        Open Demo
       </a>
-     </strong>
    </td>
   </tr>
   
@@ -199,11 +189,9 @@
      <img alt="Responsive" src="https://img.shields.io/badge/-responsive-lightgray?style=flat">
     </td>
     <td>
-     <strong>
       <a href="https://arlagonix.github.io/projects/freecodecamp-js-documentation">
        Open Demo
       </a>
-     </strong>
    </td>
   </tr>
   
@@ -221,11 +209,9 @@
      <img alt="Responsive" src="https://img.shields.io/badge/-responsive-lightgray?style=flat">
     </td>
     <td>
-     <strong>
       <a href="https://arlagonix.github.io/projects/freecodecamp-tribute-page">
        Open Demo
       </a>
-     </strong>
    </td>
   </tr>
    
