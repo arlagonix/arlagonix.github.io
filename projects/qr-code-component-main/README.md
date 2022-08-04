@@ -34,10 +34,6 @@
 
 * **Animation on hover and click**. Click on the image, on buttons
 
-## 🔗 Useful resources
-
-None
-
 ## 📍 Additional information
 
 ### Filter on hover
