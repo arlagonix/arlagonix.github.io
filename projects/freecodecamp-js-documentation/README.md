@@ -1,10 +1,10 @@
-# Portfolio page
+# JS Documentation
 
-<p align="center">
+<h3 align="center">
   <strong>
-    <a href="https://arlagonix.github.io/projects/freecodecamp-js-documentation">Open demo in Github Pages</a>
+    <a href="https://arlagonix.github.io/projects/freecodecamp-js-documentation">Open Demo in Github Pages</a>
   </strong>
-</p>
+</h2>
 
 ## ℹ️ About
   
@@ -50,7 +50,13 @@ This is a solution to the [Build a Technical Documentation Page](https://www.fre
 ```css
 code:hover {
   transform: translate(.25rem, -.25rem);
-  box-shadow: rgba(0, 0, 0, 0.07) 0px .0625rem 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+  box-shadow: 
+    rgba(0, 0, 0, 0.07) 0px .0625rem 2px, 
+    rgba(0, 0, 0, 0.07) 0px 2px 4px, 
+    rgba(0, 0, 0, 0.07) 0px 4px 8px, 
+    rgba(0, 0, 0, 0.07) 0px 8px 16px, 
+    rgba(0, 0, 0, 0.07) 0px 16px 32px, 
+    rgba(0, 0, 0, 0.07) 0px 32px 64px;
 }
 ```
 
