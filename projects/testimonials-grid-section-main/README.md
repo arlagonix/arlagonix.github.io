@@ -1,10 +1,10 @@
 # Testimonials Grid Section
 
-<p align="center">
+<h3 align="center">
   <strong>
     <a href="https://arlagonix.github.io/projects/testimonials-grid-section-main">Open demo in Github Pages</a>
   </strong>
-</p>
+</h3>
 
 <p align="center">
   <img src="./images/solution/solution-wide.jpg" width="100%">
