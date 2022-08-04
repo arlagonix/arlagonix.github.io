@@ -61,7 +61,7 @@ Found out how to make nice button animations:
 }
 ```
 
-### Animation on window resize**
+### Animation on window resize
 
 Also found out that `transition: .3s;` helps to add nice animations on media queries when you resize the window.
 
