@@ -23,7 +23,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 * **Your users should be able to**:
   * See hover states for interactive elements
 
-## ⚙️ Instruments
+## ⚙️ Tools
 
 * **HTML5**
   * Semantic HTML
@@ -120,7 +120,7 @@ Removed unnecessary properties
 }
 ```
 
-## Author
+## 👤 Author
 
 * Frontend Mentor - [@GrbnvAlex](https://www.frontendmentor.io/profile/GrbnvAlex)
 * Telegram - [@Arlagonix](https://t.me/Arlagonix)
