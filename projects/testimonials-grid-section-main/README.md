@@ -1,4 +1,4 @@
-# Order summary card solution 
+# Testimonials Grid Section
 
 <p align="center">
   <strong>
