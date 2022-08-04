@@ -1,4 +1,4 @@
-<table>
+<table align="center">
   
   <!-- HEADER -->
   <tr>
