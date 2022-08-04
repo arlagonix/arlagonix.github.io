@@ -24,7 +24,7 @@
      </a>
     </td>
     <td><code>Jul 2022</code></td>
-    <td>
+    <td align="center">
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
      <br>
@@ -47,7 +47,7 @@
      </a>
     </td>
     <td><code>Jul 2022</code></td>
-    <td>
+    <td align="center">
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
      <br>
@@ -70,7 +70,7 @@
      </a>
     </td>
     <td><code>Jul 2022</code></td>
-    <td>
+    <td align="center">
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
      <br>
@@ -94,7 +94,7 @@
      </a>
     </td>
     <td><code>Jul 2022</code></td>
-    <td>
+    <td align="center">
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
      <br>
@@ -116,7 +116,7 @@
      </a>
     </td>
     <td><code>Jul 2022</code></td>
-    <td>
+    <td align="center">
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
      <br>
@@ -147,7 +147,7 @@
      </a>
     </td>
     <td><code>Jul 2022</code></td>
-    <td>
+    <td align="center">
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
      <br>
@@ -169,7 +169,7 @@
      </a>
     </td>
     <td><code>Jul 2022</code></td>
-    <td>
+    <td align="center">
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
      <br>
@@ -191,7 +191,7 @@
      </a>
     </td>
     <td><code>Jul 2022</code></td>
-    <td>
+    <td align="center">
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
      <br>
@@ -212,7 +212,7 @@
      </a>
     </td>
     <td><code>Jul 2022</code></td>
-    <td>
+    <td align="center">
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
      <br>
