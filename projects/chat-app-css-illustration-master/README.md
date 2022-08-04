@@ -1,11 +1,11 @@
 # Chat app CSS illustration solution
 
 
-<p align="center">
+<h3 align="center">
   <strong>
     <a href="https://arlagonix.github.io/projects/chat-app-css-illustration-master">Open demo in Github Pages</a>
   </strong>
-</p>
+</h3>
 
 <p align="center">
   <img src="./images/solution/very-wide.jpg" width="100%">
