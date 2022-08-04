@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <strong>
-    <a href="https://arlagonix.github.io/projects/testimonials-grid-section-main">Open demo in Github Pages</a>
+    <a href="https://arlagonix.github.io/projects/testimonials-grid-section-main">Open Demo in Github Pages</a>
   </strong>
 </h3>
 
