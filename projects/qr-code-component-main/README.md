@@ -1,39 +1,46 @@
-# Frontend Mentor - QR code component solution
+# QR Code Component Solution 
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+<p align="center">
+  <strong>
+    <a href="https://arlagonix.github.io/projects/qr-code-component-main">Open demo in Github Pages</a>
+  </strong>
+</p>
 
-## Table of contents
+<p align="center">
+  <img src="./images/solution/solution.jpg" width="100%">
+</p
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-- [Author](#author)
+## ℹ️ About
 
-## Overview
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
-### Screenshot
+* **Build out a QR code component**
+  * `/design` - Folder with  designs. Contains both a mobile and a desktop version of the design. 
+  * `/images` - Folder with assets. The assets are already optimized.
+  * `style-guide.md` - File with the style information: color palette, fonts, etc.
+* **Get it looking as close to the design as possible**. 
+* **Use any tools to like**. You can use any tools you like to help you complete the challenge**. So if you've got something you'd like to practice, feel free to give it a go.
 
-![Solution](./images/solution/solution.jpg)
+## ⚙️ Tools
 
-### Links
+* **HTML5**
+  * Semantic HTML
+* **CSS**
+  * BEM naming convention
+  * Flexbox
+* **Github Pages** - for hosting
 
-- Solution URL: [Github](https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/qr-code-component-main)
-- Live Site URL: [Github Pages](https://arlagonix.github.io/projects/qr-code-component-main/)
+## 💡 Features
 
-## My process
+* **Animation on hover and click**. Click on the image, on buttons
 
-### Built with
+## 🔗 Useful resources
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+None
 
-### What I learned
+## 📍 Additional information
 
-**Discoverd way to use filter on hover:**
+### Filter on hover
 
 ```css
 .card__image:hover {
@@ -43,7 +50,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 }
 ```
 
-**Discovered (via Google) a way to make items undraggable:**
+### Make items undraggable
+
+Discovered (via Google) a way to make items undraggable
 
 ```css
 .card__image {
@@ -51,9 +60,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 }
 ```
 
-**Finally found a way to resize images so they don't jump out of the frame**
+### Resize images without jumping out of frame
 
-I placed the image in a container and set `overflow: hidden;` for the container. And what's about animation:
+Finally found a way to resize images so they don't jump out of the frame
+
+I placed the image in a container and set `overflow: hidden;` for the container
+
+### Hue animation on hover
 
 ```css
 .card__image:hover {
@@ -67,8 +80,8 @@ I placed the image in a container and set `overflow: hidden;` for the container.
 }
 ```
 
-## Author
+## 👤 Author
 
-- Frontend Mentor - [@GrbnvAlex](https://www.frontendmentor.io/profile/GrbnvAlex)
-- Telegram - [@Arlagonix](https://t.me/Arlagonix)
-- Gihub - [@arlagonix](https://github.com/arlagonix)
+* Frontend Mentor - [@GrbnvAlex](https://www.frontendmentor.io/profile/GrbnvAlex)
+* Telegram - [@Arlagonix](https://t.me/Arlagonix)
+* Github - [@arlagonix](https://github.com/arlagonix)
