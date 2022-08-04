@@ -15,7 +15,7 @@
   <img src="./images/solution/wide.jpg" width="100%">
 </p>
 
-## About
+## ℹ️ About
 This is a solution to the [Chat app CSS illustration challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY).
 
 * **Build out a feature illustration using HTML & CSS**. 
@@ -29,7 +29,7 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
   * View the optimal layout for the component depending on their device's screen size
   * Bonus: See the chat interface animate on the initial load
 
-## Instruments
+## ⚙️ Tools
 
 * **HTML5**
   * Semantic HTML
@@ -39,7 +39,7 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
   * BEM naming convention
 * **Github Pages** - for hosting
 
-## Features
+## 💡 Features
 
 * **Custom radiobuttons**. It took very much time. I thought it might be easier but still I succeeded. Used an example from W3C, modified it and integrated it in the solution
 * **Gradient buttons**
@@ -47,12 +47,12 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 * **Hover and click animation on buttons**
 * **Customized input**. Not hard at all. It was a bit tough to insert a submit button inside an input. Made a wrapper, placed the input and the button inside the wrapper and absolutely positioned the button.
 
-## Useful resources
+## 🔗 Useful resources
 
 - [Codepen : Node : CSS IPhone XS](https://codepen.io/nordchetbi/pen/XyzNyO?editors=1100) - Awesome IPhone design
 - [W3Schools: How to create custom checkboxes, radio buttons](https://www.w3schools.com/howto/howto_css_custom_checkbox.asp) - Helped to customize my radio buttons
 
-## Additional information
+## 📍 Additional information
  
 ### Customized input
 
@@ -73,7 +73,7 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 
 Used it to change the scale of the iphone for different widhts. Initially tried to used `transform: scale();` but it didn't work pretty well because the element continued to obtain the initial big space in the document. `zoom` solved that problem.
 
-## Author
+## 👤 Author
 
 * Frontend Mentor - [@GrbnvAlex](https://www.frontendmentor.io/profile/GrbnvAlex)
 * Telegram - [@Arlagonix](https://t.me/Arlagonix)
