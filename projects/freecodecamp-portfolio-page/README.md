@@ -1,10 +1,10 @@
 # Portfolio page
 
-<p align="center">
+<h3 align="center">
   <strong>
-    <a href="https://arlagonix.github.io/projects/freecodecamp-portfolio-page">Open demo in Github Pages</a>
+    <a href="https://arlagonix.github.io/projects/freecodecamp-portfolio-page">Open Demo in Github Pages</a>
   </strong>
-</p>
+</h3>
 
 ## ℹ️ About
   
