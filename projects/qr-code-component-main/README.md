@@ -8,11 +8,11 @@
 
 <p align="center">
   <img src="./images/solution/solution.jpg" width="100%">
-</p
+</p>
 
 ## ℹ️ About
-
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+  
+  This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 * **Build out a QR code component**
   * `/design` - Folder with  designs. Contains both a mobile and a desktop version of the design. 
