@@ -20,7 +20,7 @@
   <tr>
     <td>
      <a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/order-summary-component-main">
-      <code><strong>Order Summary Component</code></strong>
+      <code>Order Summary Component</code>
      </a>
     </td>
     <td><code>Jul 2022</code></td>
@@ -43,7 +43,7 @@
   <tr>
     <td>
      <a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/chat-app-css-illustration-master">
-      <code><strong>Chat App CSS Illustration</code></strong>
+      <code>Chat App CSS Illustration</code>
      </a>
     </td>
     <td><code>Jul 2022</code></td>
@@ -66,7 +66,7 @@
   <tr>
     <td>
      <a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/testimonials-grid-section-main">
-      <code><strong>Testimonials Grid Section</code></strong>
+      <code>Testimonials Grid Section</code>
      </a>
     </td>
     <td><code>Jul 2022</code></td>
@@ -90,7 +90,7 @@
   <tr>
     <td>
      <a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/qr-code-component-main">
-      <code><strong>QR Code</code></strong>
+      <code>QR Code</code>
      </a>
     </td>
     <td><code>Jul 2022</code></td>
@@ -112,7 +112,7 @@
   <tr>
     <td>
      <a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/product-preview-card-component-main">
-      <code><strong>Product Preview Card Component</strong></code>
+      <code>Product Preview Card Component</code>
      </a>
     </td>
     <td><code>Jul 2022</code></td>
@@ -143,7 +143,7 @@
   <tr>
     <td>
      <a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/freecodecamp-portfolio-page">
-      <code><strong>Portfolio Page</code></strong>
+      <code>Portfolio Page</code>
      </a>
     </td>
     <td><code>Jul 2022</code></td>
@@ -165,7 +165,7 @@
   <tr>
     <td>
      <a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/freecodecamp-product-landing-page">
-      <code><strong>Product Landing Page</code></strong>
+      <code>Product Landing Page</code>
      </a>
     </td>
     <td><code>Jul 2022</code></td>
@@ -187,7 +187,7 @@
   <tr>
     <td>
      <a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/freecodecamp-js-documentation">
-      <code><strong>JS Documentation</code></strong>
+      <code>JS Documentation</code>
      </a>
     </td>
     <td><code>Jul 2022</code></td>
@@ -208,7 +208,7 @@
   <tr>
     <td>
      <a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/freecodecamp-tribute-page">
-      <code><strong>Tribute Page</code></strong>
+      <code>Tribute Page</code>
      </a>
     </td>
     <td><code>Jul 2022</code></td>
