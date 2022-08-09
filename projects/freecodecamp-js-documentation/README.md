@@ -26,6 +26,8 @@ This is a solution to the [Build a Technical Documentation Page](https://www.fre
 * **Customized `<code>` blocks**. Plus animation on hover over code elements
 * **Bouncy animation on headers**. Click on navigation links to see the effect
 * **Nav transforms on small screens**
+* **Custom scrollbar**
+* **Custom selection**
 
 ## 📍 Additional information
 
@@ -57,6 +59,36 @@ code:hover {
     rgba(0, 0, 0, 0.07) 0px 8px 16px, 
     rgba(0, 0, 0, 0.07) 0px 16px 32px, 
     rgba(0, 0, 0, 0.07) 0px 32px 64px;
+}
+```
+
+### Custom scrollbar
+
+```css
+::-webkit-scrollbar {
+  width: .4rem;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-color);
+  
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--gray-2);
+  border-radius: .5rem;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--gray-1);
+}
+```
+
+### Custom selection
+
+```css
+::selection {
+  background-color: var(--gray-3);
 }
 ```
 
