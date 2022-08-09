@@ -12,7 +12,7 @@
     <td colspan="100">
       <strong>Frontend Mentor</strong>
       <br>
-      <a href="https://www.frontendmentor.io/profile/GrbnvAlex">@GrbnvAlex</a>
+      <sup><a href="https://www.frontendmentor.io/profile/GrbnvAlex">@GrbnvAlex</a></sup>
     </td>
   </tr>
   
@@ -135,7 +135,10 @@
     <td colspan="100">
       <strong>FreeCodeCamp</strong>
       <br>
-      <a href="https://www.freecodecamp.org/Arlagonix">@Arlagonix</a> ∙ <a href="https://www.freecodecamp.org/certification/Arlagonix/responsive-web-design">Responsive Web Design Certification</a>
+      <sup>
+        <a href="https://www.freecodecamp.org/Arlagonix">@Arlagonix</a> ∙ 
+        <a href="https://www.freecodecamp.org/certification/Arlagonix/responsive-web-design">Responsive Web Design Certification</a>
+      </sup>
     </td>
   </tr>
   
