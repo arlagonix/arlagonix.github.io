@@ -23,6 +23,38 @@ This is a solution to the [Build a Tribute Page](https://www.freecodecamp.org/le
 ## 💡 Features
 
 * **Animation on hover**. Trombones
+* **Custom selection**
+* **Custom Scrollbar**
+
+## 📍 Additional information
+
+### Custom selection
+
+::selection {
+  background-color: var(--gray-2);
+}
+
+### Custom scrollbar
+
+```css
+::-webkit-scrollbar {
+  width: .4em;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-color);
+  
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--gray-2);
+  border-radius: .5em;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--gray-1);
+}
+```
 
 ## 👤 Author
 
