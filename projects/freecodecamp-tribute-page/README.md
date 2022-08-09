@@ -30,9 +30,11 @@ This is a solution to the [Build a Tribute Page](https://www.freecodecamp.org/le
 
 ### Custom selection
 
+```css
 ::selection {
   background-color: var(--gray-2);
 }
+```
 
 ### Custom scrollbar
 
