@@ -199,6 +199,7 @@
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
      <br>
      <img alt="Responsive" src="https://img.shields.io/badge/-responsive-lightgray?style=flat">
+     <img alt="Responsive" src="https://img.shields.io/badge/-custom_scrollbar-lightgray?style=flat">
     </td>
     <td>
       <a href="https://arlagonix.github.io/projects/freecodecamp-js-documentation">
@@ -220,6 +221,7 @@
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
      <br>
      <img alt="Responsive" src="https://img.shields.io/badge/-responsive-lightgray?style=flat">
+     <img alt="Responsive" src="https://img.shields.io/badge/-custom_scrollbar-lightgray?style=flat">
     </td>
     <td>
       <a href="https://arlagonix.github.io/projects/freecodecamp-tribute-page">
