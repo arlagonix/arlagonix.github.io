@@ -22,7 +22,7 @@ This is a solution to the [Build a Tribute Page](https://www.freecodecamp.org/le
 
 ## 💡 Features
 
-* **Animation on hover**. Trombones
+* **Animation on hover**. Hover over a list, items in the list, hover over a photo
 * **Custom selection**
 * **Custom Scrollbar**
 
