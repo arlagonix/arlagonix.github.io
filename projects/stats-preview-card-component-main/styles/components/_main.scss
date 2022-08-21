@@ -12,5 +12,10 @@
 
   @media (min-width: globals.$break-point-lg) {
     flex-direction: row-reverse;
+
+    // Otherwise image container ignores height: 100%
+    // sad :(
+    height: 500px;
+    min-height: 500px;
   }
 }
