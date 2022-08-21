@@ -55,6 +55,8 @@ See [Task.md](./Task.md) for more details about the task
 ## 🔗 Useful resources
 
 - [Normalize.css](github.com/necolas/normalize.css)
+- [Live server : VS Code extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Live SASS Complier : VS Code extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
 
 ## 📍 Additional information
 
