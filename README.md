@@ -16,6 +16,30 @@
     </td>
   </tr>
   
+  <!-- STATS PREVIEW CARD -->
+  <tr>
+    <td>
+     <a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/stats-preview-card-component-main">
+      <code>Stats Preview Card Component</code>
+     </a>
+    </td>
+    <td><code>Aug 2022</code></td>
+    <td align="center">
+     <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
+     <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
+     <img alt="SASS" src="https://img.shields.io/badge/-Sass-cf649a?style=flat&logo=sass&logoColor=white">
+     <br>
+     <img alt="BEM" src="https://img.shields.io/badge/-BEM-lightgray?style=flat">
+     <img alt="Responsive" src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
+     <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
+    </td>
+    <td>
+      <a href="https://arlagonix.github.io/projects/stats-preview-card-component-main/">
+       Open Demo
+      </a>
+   </td>
+  </tr>
+  
   <!-- ORDER SUMMARY COMPONENT -->
   <tr>
     <td>
