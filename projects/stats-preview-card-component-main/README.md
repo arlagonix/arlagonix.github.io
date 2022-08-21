@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <strong>
-    <a href="https://arlagonix.github.io/projects/order-summary-component-main/">Open Demo in Github Pages</a>
+    <a href="https://arlagonix.github.io/projects/stats-preview-card-component-main/">Open Demo in Github Pages</a>
   </strong>
 </h3>
 
@@ -16,7 +16,7 @@
 
 ## ℹ️ About
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62).
+This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62).
 
 See [Task.md](./Task.md) for more details about the task
 
@@ -83,7 +83,7 @@ I put all the stiles in a `styles` directory. Here is the structure of the folde
 </div>
 ```
 
-The key fragment here is the class `text--gradient`. It's defined in `_text.scss`:
+The key fragment here is the class `text--gradient`. Just apply it to any text and boom! magic - the text is colored in gradient colors. The corresponding class is defined in `_text.scss`:
 
 ```scss
 @use "../global/mixins";
@@ -128,47 +128,80 @@ And the mixin is defined in the `_mixins.scss`:
 }
 ```
 
-### Card image animation with `hue-rotate`
+### Flexbox mixin
 
-```css
-.card__bg:hover .card__bg-image {
-  transform: scale(1.25);
-  filter: hue-rotate(45deg);
-}
+Quite an easy one, but it helped to keep the code DRY as soon as I use flexbox quite often
 
-.card__bg:active .card__bg-image {
-  transform: scale(1);
-  filter: hue-rotate(90deg);
+```scss
+@mixin flex($align-items, $justify-content, $flex-direction) {
+  display: flex;
+  align-items: $align-items;
+  justify-content: $justify-content;
+  flex-direction: $flex-direction;
 }
 ```
 
-### Moving background
+### Text components
 
-Removed unnecessary properties
+The point is that every single piece of text on the page is an instance of a text component (in BEM convention). It helps to place all the text style definitions in one place. Thus it allows you to control your text styles globally from one place
 
-```css
-.page {
-  background: linear-gradient(
-    60deg,
-    rgba(84, 58, 183, 1) 0%,
-    rgba(0, 172, 193, 1) 100%
-  );
-  animation: gradient 15s ease infinite;
-  background-size: 400% 400%;
-  background-attachment: fixed;
-}
+I borrowed that idea from Figma that allows to define libraries for text styles. I thought it might be a great idea to try something like that in CSS
 
-@keyframes gradient {
-  0% {
-    background-position: 0% 0%;
+```scss
+.text {
+  font-family: fonts.$font-family-standard;
+  color: colors.$secondary-white-1;
+  font-size: $font-size-nm;
+
+  &--type_header {
+    font-family: fonts.$font-family-header;
+    text-align: center;
+    font-size: $font-size-lg;
+    color: colors.$main-white;
+
+    @media (min-width: globals.$break-point-lg) {
+      text-align: left;
+      font-size: $font-size-lg-lg;
+    }
   }
-  50% {
-    background-position: 100% 100%;
+
+  &--type_paragraph {
+    color: colors.$secondary-white-1;
+    text-align: center;
+    line-height: 200%;
+
+    @media (min-width: globals.$break-point-lg) {
+      text-align: left;
+    }
   }
-  100% {
-    background-position: 0% 0%;
+
+  &--type_stats-value {
+    font-size: $font-size-md;
+    font-weight: 700;
+    color: colors.$main-white;
+
+    @media (min-width: globals.$break-point-lg) {
+      text-align: left;
+      font-size: $font-size-lg;
+    }
   }
-}
+```
+
+### Root `.scss` file
+
+btw that's how it looks like:
+
+```scss
+@use "global/normalize";
+@use "global/globals";
+
+@use "components/page";
+@use "components/text";
+@use "components/main";
+@use "components/picture-container";
+@use "components/card";
+@use "components/stats-item";
+@use "components/link";
 ```
 
 ## 👤 Author
