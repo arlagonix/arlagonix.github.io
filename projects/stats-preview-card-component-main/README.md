@@ -37,6 +37,7 @@ See [Task.md](./Task.md) for more details about the task
   - Flexbox
   - Responsive design
   - BEM naming convention
+  - Mobile first approach
 - **Github Pages** - for hosting
 - **Live Server** - VS Code extension that launches local servers
 - **Live Sass Complier** - VS Code extension that transpiles SCSS/SASS files in CSS
@@ -59,6 +60,10 @@ See [Task.md](./Task.md) for more details about the task
 - [Live SASS Complier : VS Code extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
 
 ## 📍 Additional information
+
+### Mobile first
+
+Tried this time to style at first the layout for small screen sizes, then style the desktop layout (via media queries). It felt quite unusual, didn't see any difference with desktop first approach that I previously used. Although the project is rather small, so it might be strange if I could notice any difference.
 
 ### SASS file structure
 
