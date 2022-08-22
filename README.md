@@ -32,6 +32,7 @@
      <img alt="BEM" src="https://img.shields.io/badge/-BEM-lightgray?style=flat">
      <img alt="Responsive" src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
      <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
+     <img alt="Flexbox" src="https://img.shields.io/badge/-mobile_first-lightgrey?style=flat">
     </td>
     <td>
       <a href="https://arlagonix.github.io/projects/stats-preview-card-component-main/">
