@@ -1,4 +1,4 @@
-# Stats preview card component solution
+# Calculator App
 
 <h3 align="center">
   <strong>
