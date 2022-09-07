@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <strong>
-    <a href="https://arlagonix.github.io/projects/calculator-app-main/">Open Demo in Github Pages</a>
+    <a href="https://arlagonix.github.io/projects/calculator-app-main/public">Open Demo in Github Pages</a>
   </strong>
 </h3>
 
@@ -20,6 +20,7 @@
 
 <p align="center">
   <img src="./docs/images/results/theme1_small.jpg" width="35%">
+  <img src="./docs/images/results/instructions.jpg" width="35%">
 </p>
 
 ## ℹ️ About
@@ -41,6 +42,7 @@ Users should be able to:
   - Semantic HTML
 - **SASS**
   - Flexbox
+  - Grid
   - Responsive design
   - Desktop first
 - **JavaScript**
@@ -73,7 +75,7 @@ Users should be able to:
     <td>public / index.css.map</td>
     <td>Generated with SCSS transpiler, might be used for debugging, i guess</td>
   </tr>
-  <tr bgcolor="gray">
+  <tr>
     <td colspan="2"></td>
   </tr>
   <tr>
@@ -100,7 +102,7 @@ Users should be able to:
     <td>src / scripts</td>
     <td>Folder with JS functions used imported by <code>index.js</code></td>
   </tr>
-  <tr bgcolor="gray">
+  <tr>
     <td colspan="2"></td>
   </tr>
   <tr>
@@ -134,19 +136,21 @@ Users should be able to:
   
 </table>
 
-## 💡 Features
+## 💡 Details
 
-**First time creating a project with JavaScript**. I've been learning JS for the entire August 3-4 hours per day from Monday to Sunday. By the start of the September 2022 I decided to code something challenging. The result is successful. The hardest part was to work through the calculator logic. Learnt many things in the process of coding the logic, enjoyed it mostly.
+### My first project with `JavaScript`
+
+I've been studying JS for the entire August 2022 3-4 hours per day from Monday to Sunday. By the start of the September 2022 I decided to code something challenging. The result is successful. The hardest part was to design the calculator logic. Learnt many things during the process of coding the logic, enjoyed it _mostly_.
 
 <hr>
 
-**Theme switcher**. Smooth, animated transition between 3 themes. A [video](https://www.youtube.com/watch?v=RiWxhm5ZdFM&t=1s&ab_channel=WebDevSimplified) from WebDev Simplified YouTube channel helped a lot to understand how it works.
+### Theme switcher
 
-Basically I just set the default variables for colors in `body` selector in CSS, then redefine this variables in separate classes. Then bind the adding and removal of classes from `body` HTML tag with JS.
+Smooth, animated transition between 3 themes. A [video](https://www.youtube.com/watch?v=RiWxhm5ZdFM&t=1s&ab_channel=WebDevSimplified) from WebDev Simplified YouTube channel helped a lot to understand how it works.
 
-Made toggle switch with a simple range input, styled it using [this article](https://www.w3schools.com/howto/howto_js_rangeslider.asp) from W3C.
+Basically I just set the default variables for colors in `body` selector in CSS, then redefine this variables in separate classes. Then bind with JS class addition and removal from `<body>`.
 
-Also added animation on hover - the ball smoothly shrinks on hover, changes its color. Couldn't find a way to animate transition between value, although unsure if that's needed.
+Made toggle switch with a simple range `<input>`. Styled it using [this article](https://www.w3schools.com/howto/howto_js_rangeslider.asp) from W3C. Also added animation on hover - the ball smoothly shrinks on hover, changes its color. Couldn't find a way to animate transition between value, although unsure if that's needed.
 
 <details><summary><em>HTML code for the switcher</em></summary>
 
@@ -156,7 +160,43 @@ Also added animation on hover - the ball smoothly shrinks on hover, changes its 
 
 </details>
 
-<details><summary><em>CSS for the switcher</em></summary>
+<details><summary><em>SCSS for selectors used to create themes</em></summary>
+
+```SCSS
+body {
+  --page-background-color: hsl(222, 26%, 31%);
+  --keypad-background-color: hsl(224, 36%, 15%);
+
+  --switcher-background-color: hsl(224, 36%, 15%);
+  --switcher-text-color: white;
+
+  // ...
+}
+
+.theme-1 {
+  --page-background-color: hsl(0, 0%, 90%);
+  --keypad-background-color: hsl(0, 5%, 81%);
+
+  --switcher-background-color: hsl(0, 5%, 81%);
+  --switcher-text-color: hsl(60, 10%, 19%);
+
+  // ...
+}
+
+.theme-2 {
+  --page-background-color: hsl(268, 75%, 9%);
+  --keypad-background-color: hsl(268, 71%, 12%);
+
+  --switcher-background-color: hsl(268, 71%, 12%);
+  --switcher-text-color: hsl(52, 100%, 62%);
+
+  // ...
+}
+```
+
+</details>
+
+<details><summary><em>SCSS for the switcher</em></summary>
 
 ```SCSS
 #switcher {
@@ -207,18 +247,21 @@ Also added animation on hover - the ball smoothly shrinks on hover, changes its 
 
 ```JavaScript
 // index.js
+
+import { switcherHandler } from "./scripts/switcher.js";
 document.querySelector("#switcher").addEventListener("change", switcherHandler);
 ```
 
 ```JavaScript
 // switcher.js
+
 const switcherElement = document.querySelector("#switcher");
 const themes = ["theme-1", "theme-2"];
 /**
  * Changes the page theme depending on value of range input.
  * In order to change the theme the code adds or removes specific classes from `body` tag.
  *
- * @returns {undefined} `undefined`
+ * @return {undefined} `undefined`
  */
 export function switcherHandler() {
   document.body.classList.remove(...themes);
@@ -242,165 +285,203 @@ export function switcherHandler() {
 
 <hr>
 
-**SASS**. This time made just 2 files: `index.scss`, `_globals.scss`. Nesting of CSS selectors helps a lot! Decided not to use BEM this time. Didn't see much difference. HTML looks cleaner, but I faced some issues because of using id in HTML tags.
+### Figma prototype
+
+I use a free version of FrontendMentor. Thus I don't have access to Figma prototypes. But that's not a problem - I made my own one
+
+Here it is: https://www.figma.com/file/HXUvWZAAVbKjeRxZtV97FT/Calculator-App?node-id=0%3A1
+
+That helped me to make the calculator as close to the photos as possible
+
+<hr>
+
+### Press keys on the keyboard = Press buttons on the screen
+
+I bound pressing keys and pressing buttons
+
+<details><summary><em>JS code</em></summary>
+
+```JS
+// index.js
+
+import { pressButtonHandler } from "./scripts/pressButtons.js";
+document.addEventListener("keydown", pressButtonHandler);
+```
+
+```JS
+// pressButtons.js
+
+export function pressButtonHandler(e) {
+  e.preventDefault(); // Otherwise pressing 'Enter' launches 2 events in a row
+  switch (e.key) {
+    // 1-ST ROW
+    case "7":
+      launchEventFromKeyboard("#num-7");
+      break;
+    case "8":
+      launchEventFromKeyboard("#num-8");
+      break;
+    case "9":
+      launchEventFromKeyboard("#num-9");
+      break;
+    case "Backspace":
+      launchEventFromKeyboard("#del");
+      break;
+
+    // 2-ND ROW
+    case "4":
+      launchEventFromKeyboard("#num-4");
+      break;
+    case "5":
+      launchEventFromKeyboard("#num-5");
+      break;
+    case "6":
+      launchEventFromKeyboard("#num-6");
+      break;
+    case "+":
+      launchEventFromKeyboard("#plus");
+      break;
+
+    // 3-RD ROW
+    case "1":
+      launchEventFromKeyboard("#num-1");
+      break;
+    case "2":
+      launchEventFromKeyboard("#num-2");
+      break;
+    case "3":
+      launchEventFromKeyboard("#num-3");
+      break;
+    case "-":
+      launchEventFromKeyboard("#minus");
+      break;
+
+    // 4-TH ROW
+    case ",":
+    case ".":
+      launchEventFromKeyboard("#dot");
+      break;
+    case "0":
+      launchEventFromKeyboard("#num-0");
+      break;
+    case "/":
+      launchEventFromKeyboard("#divide");
+      break;
+    case "x":
+    case "*":
+      launchEventFromKeyboard("#times");
+      break;
+
+    // 5-TH ROW
+    case "Delete":
+      launchEventFromKeyboard("#reset");
+      break;
+    case "=":
+      // case "Enter":
+      launchEventFromKeyboard("#equals");
+      break;
+    case "Enter":
+      launchEventFromKeyboard("#equals");
+      break;
+  }
+  return;
+}
+```
+
+</details>
+
+<hr>
+
+### Calculator logic
+
+That's the most complex part, that probably requires length explanation... Although I'd rather recommend to read the code. I supplied it with comments. _good luck_
+
+The logic is described mainly in `index.js`, `stackOperation.js`
+
+<hr>
+
+### JS Doc
+
+Used JS Doc notation (that is supported by VS Code by default) to explain how each function works.
+
+Here are some examples:
+
+<details><summary><em>Format number</em></summary>
+
+```js
+/**
+ * Divides the integer in groups of three and adds space between group.
+ * Adds space after "-".
+ * Example: `-12312.123123` -> `- 12 312.123123`.
+ * Made to give the numbers a fancier look.
+ *
+ * @param {number | string} inputNumber
+ * @return {string} The formatted number
+ */
+export function numberWithDelimeters(inputNumber) {
+  let parts = inputNumber.toString().split(".");
+  parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, " ");
+  parts[0] = parts[0].replace("-", "- ");
+  return parts.join(".");
+}
+```
+
+</details>
+
+<details><summary><em>Highlight operations</em></summary>
+
+```js
+/**
+ * Highlights the element, removes highlight from previously higlighted element (if any)
+ * Selector for the highlighted element is stored in a const external array
+ * Highlight means to add a class with styles to that element
+ *
+ * @param {string} elementSelector - CSS selector of the element to be highlighted
+ * @return {undefined} undefined
+ */
+export function hightlightElement(elementSelector) {
+  if (highlightedElement.length > 0) {
+    document
+      .querySelector(highlightedElement.pop())
+      .classList.remove("highlight");
+  }
+  highlightedElement.push(elementSelector);
+  document.querySelector(elementSelector).classList.add("highlight");
+  return;
+}
+```
+
+```js
+/**
+ * Removes highlight from the element with selector saved in a const external array
+ *
+ * @return {undefined} undefined
+ */
+export function removeHighlightFromElement() {
+  if (highlightedElement.length === 0) return;
+  document
+    .querySelector(highlightedElement.pop())
+    .classList.remove("highlight");
+  return;
+}
+```
+
+</details>
+
+<hr>
+
+### SASS
+
+This time made just 2 files: `index.scss`, `_globals.scss`. Nesting of CSS selectors helps a lot! Decided not to use BEM this time. Didn't see much difference. HTML looks cleaner, but I faced some issues because of using id in HTML tags.
 
 ## 🔗 Useful resources
 
-- [Normalize.css](github.com/necolas/normalize.css)
+- [Light, Dark theme : Web Dev Simplified](https://www.youtube.com/watch?v=RiWxhm5ZdFM&t=1s&ab_channel=WebDevSimplified)
+- [Custom range input sliders : W3C](https://www.w3schools.com/howto/howto_js_rangeslider.asp)
+- [How to add transition to details tag : Stack Overflow](https://stackoverflow.com/questions/38213329/how-to-add-css3-transition-with-html5-details-summary-tag-reveal)
+- [How to format a number so it contained a delimiter after every 3 digits : Stack Overflow](https://stackoverflow.com/questions/2901102/how-to-print-a-number-with-commas-as-thousands-separators-in-javascript)
 - [Live server : VS Code extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Live SASS Complier : VS Code extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
-
-## 📍 Additional information
-
-### Mobile first
-
-Tried this time to style at first the layout for small screen sizes, then style the desktop layout (via media queries). It felt quite unusual, didn't see any difference with desktop first approach that I previously used. Although the project is rather small, so it might be strange if I could notice any difference.
-
-### SASS file structure
-
-It required some time to properly set it up. I didn't come to this idea on my own, used one article (lost it) as a foundation for my file structure, left only the necessary folders, so it's rather simple
-
-I put all the stiles in a `styles` directory. Here is the structure of the folder
-
-- `styles.scss` - contains all `use`. Sass team recommend to use `use` instead of `import`
-- `styles.css` - generated CSS. Thanks to the VS Code plugin
-- `styles.scss.map` - generated by the plugin, don't really know what it does
-- `components` - a folder with all components in sense of BEM convention
-  - `_component-name.scss` - a SASS partial - the code of the component itself
-- `global` - a folder with global styles
-  - `_colors.scss` - Contains definition of all colors in SASS variables
-  - `_fonts.scss` - Imports all colors, contains definitions of font-families in SASS variables
-  - `_globals.scss` - Contains global variables and styles
-  - `_mixins.scss` - Mixins declaration
-  - `_normalize.scss` - copied from github.com/necolas/normalize.css
-
-### Animated Gradient Background
-
-```html
-<span class="text text--type_stats-value text--gradient">12M+</span>
-</div>
-```
-
-The key fragment here is the class `text--gradient`. Just apply it to any text and boom! magic - the text is colored in gradient colors. The corresponding class is defined in `_text.scss`:
-
-```scss
-@use "../global/mixins";
-
-.text {
-  // Skipping the code
-  &--gradient {
-    @include mixins.moving-gradient-bg;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-  }
-}
-```
-
-And the mixin is defined in the `_mixins.scss`:
-
-```scss
-@use "../global/colors";
-
-@mixin moving-gradient-bg {
-  background: linear-gradient(
-    -90deg,
-    colors.$gradient-1 0%,
-    colors.$gradient-2 46%,
-    colors.$gradient-3 100%
-  );
-  animation: gradient 10s ease infinite;
-  background-size: 400% 400%;
-  background-attachment: fixed;
-}
-
-@keyframes gradient {
-  0% {
-    background-position: 0% 0%;
-  }
-  50% {
-    background-position: 100% 100%;
-  }
-  100% {
-    background-position: 0% 0%;
-  }
-}
-```
-
-### Flexbox mixin
-
-Quite an easy one, but it helped to keep the code DRY as soon as I use flexbox quite often
-
-```scss
-@mixin flex($align-items, $justify-content, $flex-direction) {
-  display: flex;
-  align-items: $align-items;
-  justify-content: $justify-content;
-  flex-direction: $flex-direction;
-}
-```
-
-### Text components
-
-The point is that every single piece of text on the page is an instance of a text component (in BEM convention). It helps to place all the text style definitions in one place. Thus it allows you to control your text styles globally from one place
-
-I borrowed that idea from Figma that allows to define libraries for text styles. I thought it might be a great idea to try something like that in CSS
-
-```scss
-.text {
-  font-family: fonts.$font-family-standard;
-  color: colors.$secondary-white-1;
-  font-size: $font-size-nm;
-
-  &--type_header {
-    font-family: fonts.$font-family-header;
-    text-align: center;
-    font-size: $font-size-lg;
-    color: colors.$main-white;
-
-    @media (min-width: globals.$break-point-lg) {
-      text-align: left;
-      font-size: $font-size-lg-lg;
-    }
-  }
-
-  &--type_paragraph {
-    color: colors.$secondary-white-1;
-    text-align: center;
-    line-height: 200%;
-
-    @media (min-width: globals.$break-point-lg) {
-      text-align: left;
-    }
-  }
-
-  &--type_stats-value {
-    font-size: $font-size-md;
-    font-weight: 700;
-    color: colors.$main-white;
-
-    @media (min-width: globals.$break-point-lg) {
-      text-align: left;
-      font-size: $font-size-lg;
-    }
-  }
-```
-
-### Root `.scss` file
-
-btw that's how it looks like:
-
-```scss
-@use "global/normalize";
-@use "global/globals";
-
-@use "components/page";
-@use "components/text";
-@use "components/main";
-@use "components/picture-container";
-@use "components/card";
-@use "components/stats-item";
-@use "components/link";
-```
 
 ## 👤 Author
 
