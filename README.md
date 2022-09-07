@@ -30,11 +30,11 @@
      <img alt="JS" src="https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=white">
      <img alt="SASS" src="https://img.shields.io/badge/-Sass-cf649a?style=flat&logo=sass&logoColor=white">
      <br>
-     <img alt="JSDoc" src="https://img.shields.io/badge/-BEM-lightgray?style=flat">
      <img alt="Responsive" src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
      <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
-     <br>
      <img alt="Grid" src="https://img.shields.io/badge/-grid-lightgrey?style=flat">
+     <br>
+     <img alt="JSDoc" src="https://img.shields.io/badge/-JSDoc-lightgray?style=flat">
      <img alt="Desktop first" src="https://img.shields.io/badge/-desktop_first-lightgrey?style=flat">
     </td>
     <td>
