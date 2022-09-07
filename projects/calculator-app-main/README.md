@@ -100,7 +100,7 @@ Users should be able to:
   </tr>
   <tr>
     <td>src / scripts</td>
-    <td>Folder with JS functions used imported by <code>index.js</code></td>
+    <td>Folder with JS functions imported by <code>index.js</code></td>
   </tr>
   <tr>
     <td colspan="2"></td>
