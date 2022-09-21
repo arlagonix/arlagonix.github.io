@@ -35,7 +35,7 @@ const generateQuote = async () => {
     // Otherwise it returns the cached result
     setTimeout(() => {
       enableElement(generateQuoteButton);
-    }, 2900); // 2900 instead of 3000 to fix some animation issues
+    }, 1900); // 1900 instead of 2000 to fix some animation issues
 
     setTimeout(() => {
       removeClassFromElement(adviceText, "card__advice--out");

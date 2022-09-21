@@ -150,7 +150,7 @@ try {
 
 ### Button animation
 
-There is a limitation described in the docs of API: it can generate new quotes only once in 3 seconds. Thus I disabled the button after the pressing, then enable it in 3 seconds. During these 3 seconds I show spinning animation
+There is a limitation described in the docs of API: it can generate new quotes only once in 2 seconds. Thus I disabled the button after the pressing, then enable it in 3 seconds. During these 2 seconds I show spinning animation
 
 ```scss
 &__button[disabled] &__icon-dice {

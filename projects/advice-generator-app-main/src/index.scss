@@ -113,7 +113,7 @@ $size: 540px;
 
     &:hover:not([disabled]) {
       cursor: pointer;
-      box-shadow: 0 0 32px 4px var(--primary-2);
+      box-shadow: 0 0 88px 12px var(--primary-2);
       transform: translateX(-50%) translateY(50%);
     }
   }
@@ -132,11 +132,11 @@ $size: 540px;
   }
 
   &__button[disabled] &__icon-dice {
-    animation: rotate-360 3s infinite alternate ease-in-out;
+    animation: rotate-360 2s infinite alternate ease-in-out;
   }
 
   &__button[disabled] {
-    animation: shade-fade 3s forwards infinite alternate ease-in-out;
+    animation: shade-fade 2s forwards infinite alternate ease-in-out;
   }
 }
 
@@ -249,7 +249,7 @@ $size: 540px;
 
 @keyframes shade-fade {
   0% {
-    box-shadow: 0 0 32px 4px var(--primary-1);
+    box-shadow: 0 0 88px 12px var(--primary-1);
   }
 
   100% {
