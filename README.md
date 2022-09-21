@@ -16,6 +16,35 @@
     </td>
   </tr>
   
+  <!-- ADVICE GENERATOR APP -->
+  <tr>
+    <td>
+     <a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/advice-generator-app-main">
+      <code>Advice Generator App</code>
+     </a>
+    </td>
+    <td><code>Sep 2022</code></td>
+    <td align="center">
+     <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
+     <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
+     <img alt="JS" src="https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=white">
+     <img alt="SASS" src="https://img.shields.io/badge/-Sass-cf649a?style=flat&logo=sass&logoColor=white">
+     <br>
+     <img alt="Responsive" src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
+     <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
+     <img alt="API" src="https://img.shields.io/badge/-API-lightgrey?style=flat">
+     <img alt="fetch" src="https://img.shields.io/badge/-fetch-lightgray?style=flat">
+     <br>
+     <img alt="BEM" src="https://img.shields.io/badge/-BEM-lightgray?style=flat">
+     <img alt="Desktop first" src="https://img.shields.io/badge/-desktop_first-lightgrey?style=flat">
+    </td>
+    <td>
+      <a href="https://arlagonix.github.io/projects/advice-generator-app-main/public">
+       Open Demo
+      </a>
+   </td>
+  </tr>
+  
   <!-- CALCULATOR APP -->
   <tr>
     <td>
