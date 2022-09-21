@@ -358,8 +358,6 @@ Here it is: https://www.figma.com/file/gtbZrKQzY4Ovlz9kQWeBPR/Advice-Generator-A
 
 That helped me to make the application as close to the photos as possible
 
-<hr>
-
 ## 🔗 Useful resources
 
 - [How to animate link underline](https://tobiasahlin.com/blog/css-trick-animating-link-underlines/)
