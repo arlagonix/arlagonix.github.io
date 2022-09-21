@@ -348,6 +348,23 @@ Nothing special, thanks to https://tobiasahlin.com/blog/css-trick-animating-link
 }
 ```
 
+### Generate quotes from keyboard
+
+```js
+const generateQuoteButton = document.querySelector(".card__button");
+
+/// ....
+
+document.addEventListener("keydown", (e) => {
+  switch (e.key) {
+    case "Enter":
+      generateQuoteButton.focus();
+      generateQuoteButton.dispatchEvent("click");
+      return;
+  }
+});
+```
+
 <hr>
 
 ### Figma prototype

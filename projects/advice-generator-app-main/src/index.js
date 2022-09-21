@@ -82,3 +82,13 @@ addEventListener("offline", (event) => {
     }
   }, 1000);
 });
+
+// Generate quotes from keyboard
+document.addEventListener("keydown", (e) => {
+  switch (e.key) {
+    case "Enter":
+      generateQuoteButton.focus();
+      generateQuoteButton.dispatchEvent("click");
+      return;
+  }
+});
