@@ -48,7 +48,7 @@
   <!-- CALCULATOR APP -->
   <tr>
     <td>
-     <a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/calculator-app-main">
+     <a href="https://github.com/arlagonix/calculator-app-frontendmentor">
       <code>Calculator App</code>
      </a>
     </td>
@@ -67,7 +67,7 @@
      <img alt="Desktop first" src="https://img.shields.io/badge/-desktop_first-lightgrey?style=flat">
     </td>
     <td>
-      <a href="https://arlagonix.github.io/projects/calculator-app-main/public">
+      <a href="https://arlagonix.github.io/calculator-app-frontendmentor/public">
        Open Demo
       </a>
    </td>
