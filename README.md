@@ -271,7 +271,7 @@
   <!-- JS DOCUMENTATION -->
   <tr>
     <td>
-     <a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/freecodecamp-js-documentation">
+     <a href="https://github.com/arlagonix/freecodecamp-js-documentation">
       <code>JS Documentation</code>
      </a>
     </td>
@@ -284,7 +284,7 @@
      <img alt="Responsive" src="https://img.shields.io/badge/-custom_scrollbar-lightgray?style=flat">
     </td>
     <td>
-      <a href="https://arlagonix.github.io/projects/freecodecamp-js-documentation">
+      <a href="https://arlagonix.github.io/freecodecamp-js-documentation">
        Open Demo
       </a>
    </td>
