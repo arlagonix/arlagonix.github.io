@@ -193,7 +193,7 @@
   <!-- PRODUCT PREVIEW CARD COMPONENT -->
   <tr>
     <td>
-     <a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/product-preview-card-component-main">
+     <a href="https://github.com/arlagonix/product-preview-card-component">
       <code>Product Preview Card Component</code>
      </a>
     </td>
@@ -207,7 +207,7 @@
      <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
     </td>
     <td>
-      <a href="https://arlagonix.github.io/projects/product-preview-card-component-main">
+      <a href="https://arlagonix.github.io/product-preview-card-component-main">
        Open Demo
       </a>
    </td>
