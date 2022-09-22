@@ -293,7 +293,7 @@
   <!-- TRIBUTE PAGE -->
   <tr>
     <td>
-     <a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/freecodecamp-tribute-page">
+     <a href="https://github.com/arlagonix/freecodecamp-tribute-page">
       <code>Tribute Page</code>
      </a>
     </td>
@@ -306,7 +306,7 @@
      <img alt="Responsive" src="https://img.shields.io/badge/-custom_scrollbar-lightgray?style=flat">
     </td>
     <td>
-      <a href="https://arlagonix.github.io/projects/freecodecamp-tribute-page">
+      <a href="https://arlagonix.github.io/freecodecamp-tribute-page/">
        Open Demo
       </a>
    </td>
