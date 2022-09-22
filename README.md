@@ -249,7 +249,7 @@
   <!-- PRODUCT LANDING PAGE -->
   <tr>
     <td>
-     <a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/freecodecamp-product-landing-page">
+     <a href="https://github.com/arlagonix/freecodecamp-product-landing-page">
       <code>Product Landing Page</code>
      </a>
     </td>
@@ -262,7 +262,7 @@
      <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
     </td>
     <td>
-      <a href="https://arlagonix.github.io/projects/freecodecamp-product-landing-page">
+      <a href="https://arlagonix.github.io/freecodecamp-product-landing-page">
        Open Demo
       </a>
    </td>
