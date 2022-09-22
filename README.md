@@ -171,7 +171,7 @@
   <!-- QR CODE -->
   <tr>
     <td>
-     <a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/qr-code-component-main">
+     <a href="https://github.com/arlagonix/qr-code-frontendmentor">
       <code>QR Code</code>
      </a>
     </td>
@@ -184,7 +184,7 @@
      <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
     </td>
     <td>
-      <a href="https://arlagonix.github.io/projects/qr-code-component-main">
+      <a href="https://arlagonix.github.io/qr-code-frontendmentor">
        Open Demo
       </a>
    </td>
