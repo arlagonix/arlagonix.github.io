@@ -76,8 +76,8 @@
   <!-- STATS PREVIEW CARD -->
   <tr>
     <td>
-     <a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/stats-preview-card-component-main">
-      <code>Stats Preview Card Component</code>
+     <a href="https://github.com/arlagonix/stats-preview-card-frontendmentor">
+      <code>Stats Preview Card</code>
      </a>
     </td>
     <td><code>Aug 2022</code></td>
@@ -92,7 +92,7 @@
      <img alt="Flexbox" src="https://img.shields.io/badge/-mobile_first-lightgrey?style=flat">
     </td>
     <td>
-      <a href="https://arlagonix.github.io/projects/stats-preview-card-component-main/">
+      <a href="https://arlagonix.github.io/projects/stats-preview-card-frontendmentor/">
        Open Demo
       </a>
    </td>
