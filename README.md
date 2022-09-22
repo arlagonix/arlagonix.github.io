@@ -124,7 +124,7 @@
   <!-- CHAT APP CSS ILLUSTRATION -->
   <tr>
     <td>
-     <a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/chat-app-css-illustration-master">
+     <a href="https://github.com/arlagonix/chat-app-css-illustration-frontendmentor">
       <code>Chat App CSS Illustration</code>
      </a>
     </td>
@@ -138,7 +138,7 @@
      <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
     </td>
     <td>
-      <a href="https://arlagonix.github.io/projects/chat-app-css-illustration-master">
+      <a href="https://arlagonix.github.io/chat-app-css-illustration-frontendmentor">
        Open Demo
       </a>
    </td>
