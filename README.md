@@ -101,7 +101,7 @@
   <!-- ORDER SUMMARY COMPONENT -->
   <tr>
     <td>
-     <a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/order-summary-component-main">
+     <a href="https://github.com/arlagonix/order-summary-card-frontendmentor">
       <code>Order Summary Component</code>
      </a>
     </td>
@@ -115,7 +115,7 @@
      <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
     </td>
     <td>
-      <a href="https://arlagonix.github.io/projects/order-summary-component-main/">
+      <a href="https://arlagonix.github.io/order-summary-card-frontendmentor">
        Open Demo
       </a>
    </td>
