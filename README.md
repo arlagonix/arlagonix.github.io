@@ -227,7 +227,7 @@
   <!-- PORTFOLIO PAGE -->
   <tr>
     <td>
-     <a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/freecodecamp-portfolio-page">
+     <a href="https://github.com/arlagonix/freecodecamp-portfolio-page">
       <code>Portfolio Page</code>
      </a>
     </td>
@@ -240,7 +240,7 @@
      <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
     </td>
     <td>
-      <a href="https://arlagonix.github.io/projects/freecodecamp-portfolio-page">
+      <a href="https://arlagonix.github.io/freecodecamp-portfolio-page">
        Open Demo
       </a>
    </td>
