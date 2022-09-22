@@ -207,7 +207,7 @@
      <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
     </td>
     <td>
-      <a href="https://arlagonix.github.io/product-preview-card-component-main">
+      <a href="https://arlagonix.github.io/product-preview-card-component">
        Open Demo
       </a>
    </td>
