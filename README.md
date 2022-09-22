@@ -19,7 +19,7 @@
   <!-- ADVICE GENERATOR APP -->
   <tr>
     <td>
-     <a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/advice-generator-app-main">
+     <a href="https://github.com/arlagonix/advice-generator-app-frontendmentor">
       <code>Advice Generator App</code>
      </a>
     </td>
@@ -39,7 +39,7 @@
      <img alt="Desktop first" src="https://img.shields.io/badge/-desktop_first-lightgrey?style=flat">
     </td>
     <td>
-      <a href="https://arlagonix.github.io/projects/advice-generator-app-main/public">
+      <a href="https://arlagonix.github.io/advice-generator-app-frontendmentor/public">
        Open Demo
       </a>
    </td>
