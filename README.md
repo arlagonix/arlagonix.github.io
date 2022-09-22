@@ -92,7 +92,7 @@
      <img alt="Flexbox" src="https://img.shields.io/badge/-mobile_first-lightgrey?style=flat">
     </td>
     <td>
-      <a href="https://arlagonix.github.io/projects/stats-preview-card-frontendmentor/">
+      <a href="https://arlagonix.github.io/stats-preview-card-frontendmentor/">
        Open Demo
       </a>
    </td>
