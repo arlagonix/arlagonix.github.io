@@ -147,7 +147,7 @@
    <!-- TESTIMONIALS GRID SECTION -->
   <tr>
     <td>
-     <a href="https://github.com/arlagonix/arlagonix.github.io/tree/main/projects/testimonials-grid-section-main">
+     <a href="https://github.com/arlagonix/testimonials-grid-section-frontendmentor">
       <code>Testimonials Grid Section</code>
      </a>
     </td>
@@ -162,7 +162,7 @@
      <img alt="Grid" src="https://img.shields.io/badge/-grid-lightgrey?style=flat">
     </td>
     <td>
-      <a href="https://arlagonix.github.io/projects/testimonials-grid-section-main">
+      <a href="https://arlagonix.github.io/testimonials-grid-section-frontendmentor">
        Open Demo
       </a>
    </td>
