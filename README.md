@@ -27,9 +27,8 @@
     <td align="center">
      <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
-     <img src="https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=white">
+     <img src="https://img.shields.io/badge/-TS-2D79C7?style=flat&logo=typescript&logoColor=white">
      <img src="https://img.shields.io/badge/-Sass-cf649a?style=flat&logo=sass&logoColor=white">
-     <img src="https://img.shields.io/badge/-TS-blue?style=flat&logo=typescript&logoColor=white">
      <br>
      <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
      <img src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
