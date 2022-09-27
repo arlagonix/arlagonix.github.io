@@ -20,7 +20,7 @@
   <tr>
     <td>
      <a href="https://github.com/arlagonix/interactive-rating-frontendmentor">
-      <code>Advice Generator App</code>
+      <code>Interactive Rating Component</code>
      </a>
     </td>
     <td><code>Sep 2022</code></td>
