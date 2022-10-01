@@ -1,7 +1,3 @@
-
-
-
-
 <table align="center">
   
   <!-- HEADER -->
@@ -9,7 +5,7 @@
     <th>Project</th>
     <th>Date</th>
     <th>Complexity</th>
-    <th>Techonology Stack</th>
+    <th>Tags</th>
     <th>Demo</th>
   </tr>
   
@@ -126,6 +122,7 @@
      <img alt="BEM" src="https://img.shields.io/badge/-BEM-lightgray?style=flat">
      <img alt="Responsive" src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
      <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
+     <br>
      <img alt="Flexbox" src="https://img.shields.io/badge/-mobile_first-lightgrey?style=flat">
     </td>
     <td>
