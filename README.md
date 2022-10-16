@@ -24,7 +24,7 @@
       <code>Todo App</code>
      </a>
     </td>
-    <td><code>Oct 2022</code></td>
+    <td><code>Oct&nbsp;2022</code></td>
     <td align="center"><code>7 / 10</code></td>
     <td align="center">
      <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
