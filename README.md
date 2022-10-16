@@ -30,6 +30,7 @@
      <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img src="https://img.shields.io/badge/-Sass-cf649a?style=flat&logo=sass&logoColor=white">
      <img src="https://img.shields.io/badge/-TS-2D79C7?style=flat&logo=typescript&logoColor=white">
+     <br>
      <img src="https://img.shields.io/badge/-Webpack-75AFCC?style=flat&logo=webpack&logoColor=white">
      <br>
      <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
