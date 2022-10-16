@@ -17,6 +17,35 @@
     </td>
   </tr>
   
+  <!-- TODO APP -->
+  <tr>
+    <td>
+     <a href="https://github.com/arlagonix/todo-app">
+      <code>Todo App</code>
+     </a>
+    </td>
+    <td><code>Oct 2022</code></td>
+    <td align="center"><code>7 / 10</code></td>
+    <td align="center">
+     <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
+     <img src="https://img.shields.io/badge/-Sass-cf649a?style=flat&logo=sass&logoColor=white">
+     <img src="https://img.shields.io/badge/-TS-2D79C7?style=flat&logo=typescript&logoColor=white">
+     <img src="https://img.shields.io/badge/-Webpack-75AFCC?style=flat&logo=webpack&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-gherkin-lightgrey?style=flat">
+     <br>
+     <img src="https://img.shields.io/badge/-BEM-lightgray?style=flat">
+     <img src="https://img.shields.io/badge/-desktop_first-lightgrey?style=flat">
+    </td>
+    <td>
+      <a href="https://arlagonix.github.io/todo-app/build">
+       Open Demo
+      </a>
+   </td>
+  </tr>
+  
   <!-- INTERACTIVE RATING COMPONENT -->
   <tr>
     <td>
