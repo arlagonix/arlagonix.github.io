@@ -57,9 +57,8 @@
     <td align="center"><code>5 / 10</code></td>
     <td align="center">
      <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
-     <img src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
-     <img src="https://img.shields.io/badge/-TS-2D79C7?style=flat&logo=typescript&logoColor=white">
      <img src="https://img.shields.io/badge/-Sass-cf649a?style=flat&logo=sass&logoColor=white">
+     <img src="https://img.shields.io/badge/-TS-2D79C7?style=flat&logo=typescript&logoColor=white">
      <br>
      <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
      <img src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
@@ -86,9 +85,8 @@
     <td align="center"><code>5 / 10</code></td>
     <td align="center">
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
-     <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
-     <img alt="JS" src="https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=white">
      <img alt="SASS" src="https://img.shields.io/badge/-Sass-cf649a?style=flat&logo=sass&logoColor=white">
+     <img alt="JS" src="https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=white">
      <br>
      <img alt="Responsive" src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
      <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
@@ -116,9 +114,8 @@
     <td align="center"><code>7 / 10</code></td>
     <td align="center">
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
-     <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
-     <img alt="JS" src="https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=white">
      <img alt="SASS" src="https://img.shields.io/badge/-Sass-cf649a?style=flat&logo=sass&logoColor=white">
+     <img alt="JS" src="https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=white">
      <br>
      <img alt="Responsive" src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
      <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
@@ -145,7 +142,6 @@
     <td align="center"><code>2 / 10</code></td>
     <td align="center">
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
-     <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
      <img alt="SASS" src="https://img.shields.io/badge/-Sass-cf649a?style=flat&logo=sass&logoColor=white">
      <br>
      <img alt="BEM" src="https://img.shields.io/badge/-BEM-lightgray?style=flat">
