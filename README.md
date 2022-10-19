@@ -258,11 +258,11 @@
    </td>
   </tr>
   
-  <!-- PRODUCT PREVIEW CARD COMPONENT -->
+  <!-- PRODUCT PREVIEW CARD -->
   <tr>
     <td>
      <a href="https://github.com/arlagonix/product-preview-card-frontendmentor">
-      <code>Product Preview Card Component</code>
+      <code>Product Preview Card</code>
      </a>
     </td>
     <td><code>Jul 2022</code></td>
