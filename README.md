@@ -1,3 +1,7 @@
+<h1 align="center">My web projects</h1>
+<p align="center">
+ Pet projects that I made while learning web technologies
+</p>
 <table align="center">
   
   <!-- HEADER -->
