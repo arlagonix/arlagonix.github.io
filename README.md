@@ -21,6 +21,29 @@
     </td>
   </tr>
   
+  <!-- NFR PREVIEW CARD -->
+  <tr>
+    <td>
+     <a href="https://github.com/arlagonix/nft-preview-card">
+      <code>NFR Preview card</code>
+     </a>
+    </td>
+    <td><code>Oct&nbsp;2022</code></td>
+    <td align="center"><code>3 / 10</code></td>
+    <td align="center">
+     <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
+     <img src="https://img.shields.io/badge/-TailwindCSS-white?style=flat&logo=tailwindcss&logoColor=#06B6D4">
+     <br>
+     <img src="https://img.shields.io/badge/-Webpack-75AFCC?style=flat&logo=webpack&logoColor=white">
+     <img src="https://img.shields.io/badge/-mobile_first-lightgrey?style=flat">
+    </td>
+    <td>
+      <a href="https://arlagonix.github.io/nft-preview-card/build">
+       Open Demo
+      </a>
+   </td>
+  </tr>
+  
   <!-- TODO APP -->
   <tr>
     <td>
