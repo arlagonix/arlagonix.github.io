@@ -25,7 +25,7 @@
   <tr>
     <td>
      <a href="https://github.com/arlagonix/nft-preview-card">
-      <code>NFT Preview card</code>
+      <code>NFT Preview Card</code>
      </a>
     </td>
     <td><code>Oct&nbsp;2022</code></td>
