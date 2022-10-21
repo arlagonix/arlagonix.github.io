@@ -21,11 +21,11 @@
     </td>
   </tr>
   
-  <!-- NFR PREVIEW CARD -->
+  <!-- NFT PREVIEW CARD -->
   <tr>
     <td>
      <a href="https://github.com/arlagonix/nft-preview-card">
-      <code>NFR Preview card</code>
+      <code>NFT Preview card</code>
      </a>
     </td>
     <td><code>Oct&nbsp;2022</code></td>
