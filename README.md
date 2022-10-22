@@ -72,7 +72,7 @@
     <td>
      <a href="https://github.com/arlagonix/todo-app">
       <code>Todo App</code>
-     </a>
+     </a> ⭐
     </td>
     <td><code>Oct&nbsp;2022</code></td>
     <td align="center"><code>7 / 10</code></td>
@@ -159,7 +159,7 @@
     <td>
      <a href="https://github.com/arlagonix/calculator-app-frontendmentor">
       <code>Calculator App</code>
-     </a>
+     </a> ⭐
     </td>
     <td><code>Sep 2022</code></td>
     <td align="center"><code>7 / 10</code></td>
