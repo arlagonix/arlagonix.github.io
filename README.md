@@ -21,6 +21,29 @@
     </td>
   </tr>
   
+  <!-- 3 COLUMN PREVIEW CARD -->
+  <tr>
+    <td>
+     <a href="https://github.com/arlagonix/3-column-preview">
+      <code>3 Column Preview Card</code>
+     </a>
+    </td>
+    <td><code>Oct&nbsp;2022</code></td>
+    <td align="center"><code>1 / 10</code></td>
+    <td align="center">
+     <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
+     <img src="https://img.shields.io/badge/-TailwindCSS-white?style=flat&logo=tailwindcss&logoColor=#06B6D4">
+     <br>
+     <img src="https://img.shields.io/badge/-Webpack-75AFCC?style=flat&logo=webpack&logoColor=white">
+     <img src="https://img.shields.io/badge/-mobile_first-lightgrey?style=flat">
+    </td>
+    <td>
+      <a href="https://arlagonix.github.io/3-column-preview/build">
+       Open Demo
+      </a>
+   </td>
+  </tr>
+  
   <!-- NFT PREVIEW CARD -->
   <tr>
     <td>
