@@ -12,16 +12,14 @@
     <th>Tags</th>
     <th>Demo</th>
   </tr>
-  
-  <tr>
+ 
+ <tr>
     <td colspan="100">
-      <strong>Frontend Mentor</strong>
-      <br>
-      <sup><a href="https://www.frontendmentor.io/profile/GrbnvAlex">@GrbnvAlex</a></sup>
+      <strong>Scrimba</strong>
     </td>
   </tr>
-  
-  <!-- FRONTEND DEVELOPER CARD -->
+ 
+ <!-- FRONTEND DEVELOPER CARD -->
   <tr>
     <td>
      <a href="https://github.com/arlagonix/developer-card">
@@ -46,6 +44,16 @@
       </a>
    </td>
   </tr>
+  
+  <tr>
+    <td colspan="100">
+      <strong>Frontend Mentor</strong>
+      <br>
+      <sup><a href="https://www.frontendmentor.io/profile/GrbnvAlex">@GrbnvAlex</a></sup>
+    </td>
+  </tr>
+  
+  
   
   <!-- NEWS HOMEPAGE -->
   <tr>
