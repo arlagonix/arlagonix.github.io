@@ -21,6 +21,32 @@
     </td>
   </tr>
   
+  <!-- FRONTEND DEVELOPER CARD -->
+  <tr>
+    <td>
+     <a href="https://github.com/arlagonix/developer-card">
+      <code>Frontend Developer Card</code>
+     </a>
+    </td>
+    <td><code>Oct&nbsp;2022</code></td>
+    <td align="center"><code>3 / 10</code></td>
+    <td align="center">
+     <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
+     <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
+     <img alt="JS" src="https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-ReactJS-61DAFB?&style=flat&logo=react&logoColor=white">
+     <img src="https://img.shields.io/badge/-Vite-BD34FE?style=flat&logo=vite&logoColor=FFC71F">
+     <br>
+     <img src="https://img.shields.io/badge/-styled--components-lightgrey?style=flat">
+    </td>
+    <td>
+      <a href="https://arlagonix.github.io/developer-card/build">
+       Open Demo
+      </a>
+   </td>
+  </tr>
+  
   <!-- NEWS HOMEPAGE -->
   <tr>
     <td>
