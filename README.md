@@ -16,6 +16,8 @@
  <tr>
     <td colspan="100">
       <strong>Scrimba</strong>
+      <br>
+     <sup><a href="https://scrimba.com/learn/learnreact">React tutorial</a></sup>
     </td>
   </tr>
  
