@@ -20,6 +20,35 @@
      <sup><a href="https://scrimba.com/learn/learnreact">React tutorial</a></sup>
     </td>
   </tr>
+  
+ <!-- TENZIES -->
+  <tr>
+    <td>
+     <a href="https://github.com/arlagonix/tenzies">
+      <code>Tenzies</code>
+     </a> ⭐
+    </td>
+    <td><code>Nov&nbsp;2022</code></td>
+    <td align="center"><code>4 / 10</code></td>
+    <td align="center">
+     <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
+     <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
+     <img src="https://img.shields.io/badge/-TS-2D79C7?style=flat&logo=typescript&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-ReactJS-61DAFB?&style=flat&logo=react&logoColor=white">
+     <img src="https://img.shields.io/badge/-Vite-BD34FE?style=flat&logo=vite&logoColor=FFC71F">
+     <br>
+     <img src="https://img.shields.io/badge/-styled--components-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
+     <br>
+     <img src="https://img.shields.io/badge/-switch--theme-lightgrey?style=flat">
+    </td>
+    <td>
+      <a href="https://arlagonix.github.io/tenzies/build">
+       Open Demo
+      </a>
+   </td>
+  </tr>
  
  <!-- TRAVEL JOURNAL -->
   <tr>
