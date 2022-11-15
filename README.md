@@ -25,8 +25,7 @@
   <tr>
     <td>
      <a href="https://github.com/arlagonix/tenzies">
-      <code>Tenzies</code>
-     </a> ⭐
+      <code>Tenzies</code></a> ⭐
     </td>
     <td><code>Nov&nbsp;2022</code></td>
     <td align="center"><code>4 / 10</code></td>
@@ -185,8 +184,7 @@
   <tr>
     <td>
      <a href="https://github.com/arlagonix/todo-app">
-      <code>Todo App</code>
-     </a> ⭐
+      <code>Todo App</code></a> ⭐
     </td>
     <td><code>Oct&nbsp;2022</code></td>
     <td align="center"><code>7 / 10</code></td>
@@ -272,8 +270,7 @@
   <tr>
     <td>
      <a href="https://github.com/arlagonix/calculator-app-frontendmentor">
-      <code>Calculator App</code>
-     </a> ⭐
+      <code>Calculator App</code></a> ⭐
     </td>
     <td><code>Sep 2022</code></td>
     <td align="center"><code>7 / 10</code></td>
