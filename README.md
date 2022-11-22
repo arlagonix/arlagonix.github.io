@@ -21,6 +21,38 @@
     </td>
   </tr>
   
+  <!-- QUIZZICAL APP -->
+  <tr>
+    <td>
+     <a href="https://github.com/arlagonix/quizzical-app">
+      <code>Quizzical App</code></a> ⭐
+    </td>
+    <td><code>Nov&nbsp;2022</code></td>
+    <td align="center"><code>7 / 10</code></td>
+    <td align="center">
+     <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
+     <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
+     <img src="https://img.shields.io/badge/-TS-2D79C7?style=flat&logo=typescript&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-ReactJS-61DAFB?&style=flat&logo=react&logoColor=white">
+     <img src="https://img.shields.io/badge/-CRA-61DAFB?&style=flat&logo=react&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-styled--components-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-react--router-lightgrey?style=flat">
+     <br>
+     <img src="https://img.shields.io/badge/-redux--toolkit-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
+     <br>
+     <img src="https://img.shields.io/badge/-skeletons-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-api-lightgrey?style=flat">
+    </td>
+    <td>
+      <a href="https://arlagonix.github.io/quizzical-app">
+       Open Demo
+      </a>
+   </td>
+  </tr>
+  
  <!-- TENZIES -->
   <tr>
     <td>
