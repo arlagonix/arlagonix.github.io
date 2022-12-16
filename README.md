@@ -27,7 +27,7 @@
      <a href="https://github.com/arlagonix/countries-list">
       <code>Countries List</code></a> ⭐
     </td>
-    <td><code>Nov&nbsp;2022</code></td>
+    <td><code>Dec&nbsp;2022</code></td>
     <td align="center"><code>7 / 10</code></td>
     <td align="center">
      <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
