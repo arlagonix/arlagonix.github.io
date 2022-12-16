@@ -12,6 +12,46 @@
     <th>Tags</th>
     <th>Demo</th>
   </tr>
+  
+  <tr>
+    <td colspan="100">
+      <strong>Frontend Mentor</strong>
+      <br>
+      <sup><a href="https://www.frontendmentor.io/profile/GrbnvAlex">@GrbnvAlex</a></sup>
+    </td>
+  </tr>
+  
+  <!-- QUIZZICAL APP -->
+  <tr>
+    <td>
+     <a href="https://github.com/arlagonix/countries-list">
+      <code>Countries List</code></a> ⭐
+    </td>
+    <td><code>Nov&nbsp;2022</code></td>
+    <td align="center"><code>7 / 10</code></td>
+    <td align="center">
+     <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
+     <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
+     <img src="https://img.shields.io/badge/-TS-2D79C7?style=flat&logo=typescript&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-ReactJS-61DAFB?&style=flat&logo=react&logoColor=white">
+     <img src="https://img.shields.io/badge/-Vite-BD34FE?style=flat&logo=vite&logoColor=FFC71F">
+     <br>
+     <img src="https://img.shields.io/badge/-styled--components-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-react--router-lightgrey?style=flat">
+     <br>
+     <img src="https://img.shields.io/badge/-react--query-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
+     <br>
+     <img src="https://img.shields.io/badge/-skeletons-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-api-lightgrey?style=flat">
+    </td>
+    <td>
+      <a href="https://arlagonix.github.io/countries-list">
+       Open Demo
+      </a>
+   </td>
+  </tr>
  
  <tr>
     <td colspan="100">
@@ -40,9 +80,7 @@
      <img src="https://img.shields.io/badge/-styled--components-lightgrey?style=flat">
      <img src="https://img.shields.io/badge/-react--router-lightgrey?style=flat">
      <br>
-     <img src="https://img.shields.io/badge/-redux--toolkit-lightgrey?style=flat">
      <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
-     <br>
      <img src="https://img.shields.io/badge/-skeletons-lightgrey?style=flat">
      <img src="https://img.shields.io/badge/-api-lightgrey?style=flat">
     </td>
