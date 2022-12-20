@@ -28,7 +28,7 @@
       <code>Countries List</code></a> ⭐
     </td>
     <td><code>Dec&nbsp;2022</code></td>
-    <td align="center"><code>7 / 10</code></td>
+    <td align="center"><code>6 / 10</code></td>
     <td align="center">
      <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
