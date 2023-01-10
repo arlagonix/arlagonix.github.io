@@ -28,7 +28,7 @@
       <code>Countries List</code></a> ⭐
     </td>
     <td><code>Dec&nbsp;2022</code></td>
-    <td align="center"><code>6 / 10</code></td>
+    <td align="center"><code>7 / 10</code></td>
     <td align="center">
      <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
@@ -45,6 +45,10 @@
      <br>
      <img src="https://img.shields.io/badge/-skeletons-lightgrey?style=flat">
      <img src="https://img.shields.io/badge/-api-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-ci/cd-lightgrey?style=flat">
+     <br>
+     <img src="https://img.shields.io/badge/-cypress-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-vitest-lightgrey?style=flat">
     </td>
     <td>
       <a href="https://arlagonix.github.io/countries-list">
