@@ -41,10 +41,10 @@
      <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
      <br>
      <img src="https://img.shields.io/badge/-react--final--form-lightgrey?style=flat">
-     <img src="https://img.shields.io/badge/-framer--motion-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-vitest-lightgrey?style=flat">
      <br>
      <img src="https://img.shields.io/badge/-ci/cd-lightgrey?style=flat">
-     <img src="https://img.shields.io/badge/-vitest-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-framer--motion-lightgrey?style=flat">
     </td>
     <td>
       <a href="https://arlagonix.github.io/multi-step-form">
