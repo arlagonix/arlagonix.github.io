@@ -24,6 +24,38 @@
   <!-- QUIZZICAL APP -->
   <tr>
     <td>
+     <a href="https://github.com/arlagonix/multi-step-form">
+      <code>Multi-Step Form</code></a> ⭐
+    </td>
+    <td><code>Jan&nbsp;2023</code></td>
+    <td align="center"><code>5 / 10</code></td>
+    <td align="center">
+     <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
+     <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
+     <img src="https://img.shields.io/badge/-TS-2D79C7?style=flat&logo=typescript&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-ReactJS-61DAFB?&style=flat&logo=react&logoColor=white">
+     <img src="https://img.shields.io/badge/-Vite-BD34FE?style=flat&logo=vite&logoColor=FFC71F">
+     <br>
+     <img src="https://img.shields.io/badge/-tailwindcss-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
+     <br>
+     <img src="https://img.shields.io/badge/-react--final--form-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-framer--motion-lightgrey?style=flat">
+     <br>
+     <img src="https://img.shields.io/badge/-ci/cd-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-vitest-lightgrey?style=flat">
+    </td>
+    <td>
+      <a href="https://arlagonix.github.io/multi-step-form">
+       Open Demo
+      </a>
+   </td>
+  </tr>
+  
+  <!-- QUIZZICAL APP -->
+  <tr>
+    <td>
      <a href="https://github.com/arlagonix/countries-list">
       <code>Countries List</code></a> ⭐
     </td>
