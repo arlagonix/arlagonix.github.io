@@ -86,7 +86,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/countries-list">
-       Open Demo
+       Open&nbsp;Demo
       </a>
    </td>
   </tr>
