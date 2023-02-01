@@ -21,7 +21,7 @@
     </td>
   </tr>
   
-  <!-- QUIZZICAL APP -->
+  <!-- MULTI-STEP FORM -->
   <tr>
     <td>
      <a href="https://github.com/arlagonix/multi-step-form">
@@ -36,14 +36,13 @@
      <br>
      <img src="https://img.shields.io/badge/-ReactJS-61DAFB?&style=flat&logo=react&logoColor=white">
      <img src="https://img.shields.io/badge/-Vite-BD34FE?style=flat&logo=vite&logoColor=FFC71F">
+     <img src="https://img.shields.io/badge/-TailwindCSS-white?style=flat&logo=tailwindcss&logoColor=#06B6D4">
      <br>
-     <img src="https://img.shields.io/badge/-tailwindcss-lightgrey?style=flat">
      <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
      <img src="https://img.shields.io/badge/-ci/cd-lightgrey?style=flat">
-     <br>
-     <img src="https://img.shields.io/badge/-react--final--form-lightgrey?style=flat">
      <img src="https://img.shields.io/badge/-vitest-lightgrey?style=flat">
      <br>
+     <img src="https://img.shields.io/badge/-react--final--form-lightgrey?style=flat">
      <img src="https://img.shields.io/badge/-framer--motion-lightgrey?style=flat">
     </td>
     <td>
