@@ -41,6 +41,7 @@
      <img src="https://img.shields.io/badge/-Vitest-FFEA00?style=flat&logo=vitest">
      <br>
      <img src="https://img.shields.io/badge/-Framer_Motion-black?style=flat&logo=framer&logoColor=white">
+     <br>
      <img src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white">
      <br>
      <img src="https://img.shields.io/badge/-ci/cd-lightgrey?style=flat">
