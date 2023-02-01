@@ -41,6 +41,7 @@
      <img src="https://img.shields.io/badge/-Vitest-FFEA00?style=flat&logo=vitest">
      <br>
      <img src="https://img.shields.io/badge/-Framer_Motion-black?style=flat&logo=framer&logoColor=white">
+     <img src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white">
      <br>
      <img src="https://img.shields.io/badge/-ci/cd-lightgrey?style=flat">
      <img src="https://img.shields.io/badge/-react--final--form-lightgrey?style=flat">
@@ -76,6 +77,7 @@
      <br>
      <img src="https://img.shields.io/badge/-Cypress-007780?style=flat&logo=cypress&logoColor=white">
      <img src="https://img.shields.io/badge/-Vitest-FFEA00?style=flat&logo=vitest">
+     <img src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white">
      <br>
      <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
      <img src="https://img.shields.io/badge/-skeletons-lightgrey?style=flat">
