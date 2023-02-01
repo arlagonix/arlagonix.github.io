@@ -34,16 +34,18 @@
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
      <img src="https://img.shields.io/badge/-TS-2D79C7?style=flat&logo=typescript&logoColor=white">
      <br>
-     <img src="https://img.shields.io/badge/-ReactJS-61DAFB?&style=flat&logo=react&logoColor=white">
+     <img src="https://img.shields.io/badge/-ReactJS-40E0D0?&style=flat&logo=react&logoColor=white">
      <img src="https://img.shields.io/badge/-Vite-BD34FE?style=flat&logo=vite&logoColor=FFC71F">
+     <br>
      <img src="https://img.shields.io/badge/-TailwindCSS-white?style=flat&logo=tailwindcss&logoColor=#06B6D4">
+     <img src="https://img.shields.io/badge/-Vitest-FFEA00?style=flat&logo=vitest">
+     <br>
+     <img src="https://img.shields.io/badge/-Framer_Motion-black?style=flat&logo=framer&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-ci/cd-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-react--final--form-lightgrey?style=flat">
      <br>
      <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
-     <img src="https://img.shields.io/badge/-ci/cd-lightgrey?style=flat">
-     <img src="https://img.shields.io/badge/-vitest-lightgrey?style=flat">
-     <br>
-     <img src="https://img.shields.io/badge/-react--final--form-lightgrey?style=flat">
-     <img src="https://img.shields.io/badge/-framer--motion-lightgrey?style=flat">
     </td>
     <td>
       <a href="https://arlagonix.github.io/multi-step-form">
@@ -65,21 +67,21 @@
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
      <img src="https://img.shields.io/badge/-TS-2D79C7?style=flat&logo=typescript&logoColor=white">
      <br>
-     <img src="https://img.shields.io/badge/-ReactJS-61DAFB?&style=flat&logo=react&logoColor=white">
+     <img src="https://img.shields.io/badge/-ReactJS-40E0D0?&style=flat&logo=react&logoColor=white">
      <img src="https://img.shields.io/badge/-Vite-BD34FE?style=flat&logo=vite&logoColor=FFC71F">
      <br>
-     <img src="https://img.shields.io/badge/-styled--components-lightgrey?style=flat">
-     <img src="https://img.shields.io/badge/-react--router-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-Styled_Components-DA70D6?style=flat&logo=styled-components&logoColor=white">
      <br>
-     <img src="https://img.shields.io/badge/-react--query-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-React_Router-white?style=flat&logo=react-router&logoColor=F44250">
+     <img src="https://img.shields.io/badge/-React_Query-FF4154?style=flat&logo=react-query&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-Cypress-007780?style=flat&logo=cypress&logoColor=white">
+     <img src="https://img.shields.io/badge/-Vitest-FFEA00?style=flat&logo=vitest">
+     <br>
      <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
-     <br>
      <img src="https://img.shields.io/badge/-skeletons-lightgrey?style=flat">
      <img src="https://img.shields.io/badge/-api-lightgrey?style=flat">
      <img src="https://img.shields.io/badge/-ci/cd-lightgrey?style=flat">
-     <br>
-     <img src="https://img.shields.io/badge/-cypress-lightgrey?style=flat">
-     <img src="https://img.shields.io/badge/-vitest-lightgrey?style=flat">
     </td>
     <td>
       <a href="https://arlagonix.github.io/countries-list">
@@ -109,11 +111,11 @@
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
      <img src="https://img.shields.io/badge/-TS-2D79C7?style=flat&logo=typescript&logoColor=white">
      <br>
-     <img src="https://img.shields.io/badge/-ReactJS-61DAFB?&style=flat&logo=react&logoColor=white">
-     <img src="https://img.shields.io/badge/-CRA-61DAFB?&style=flat&logo=react&logoColor=white">
+     <img src="https://img.shields.io/badge/-ReactJS-40E0D0?&style=flat&logo=react&logoColor=white">
+     <img src="https://img.shields.io/badge/-CRA-40E0D0?&style=flat&logo=react&logoColor=white">
+     <img src="https://img.shields.io/badge/-React_Router-white?style=flat&logo=react-router&logoColor=F44250">
      <br>
-     <img src="https://img.shields.io/badge/-styled--components-lightgrey?style=flat">
-     <img src="https://img.shields.io/badge/-react--router-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-Styled_Components-DA70D6?style=flat&logo=styled-components&logoColor=white">
      <br>
      <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
      <img src="https://img.shields.io/badge/-skeletons-lightgrey?style=flat">
@@ -139,12 +141,12 @@
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
      <img src="https://img.shields.io/badge/-TS-2D79C7?style=flat&logo=typescript&logoColor=white">
      <br>
-     <img src="https://img.shields.io/badge/-ReactJS-61DAFB?&style=flat&logo=react&logoColor=white">
+     <img src="https://img.shields.io/badge/-ReactJS-40E0D0?&style=flat&logo=react&logoColor=white">
      <img src="https://img.shields.io/badge/-Vite-BD34FE?style=flat&logo=vite&logoColor=FFC71F">
      <br>
-     <img src="https://img.shields.io/badge/-styled--components-lightgrey?style=flat">
-     <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-Styled_Components-DA70D6?style=flat&logo=styled-components&logoColor=white">
      <br>
+     <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
      <img src="https://img.shields.io/badge/-switch--theme-lightgrey?style=flat">
     </td>
     <td>
@@ -168,10 +170,10 @@
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
      <img alt="JS" src="https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=white">
      <br>
-     <img src="https://img.shields.io/badge/-ReactJS-61DAFB?&style=flat&logo=react&logoColor=white">
+     <img src="https://img.shields.io/badge/-ReactJS-40E0D0?&style=flat&logo=react&logoColor=white">
      <img src="https://img.shields.io/badge/-Vite-BD34FE?style=flat&logo=vite&logoColor=FFC71F">
      <br>
-     <img src="https://img.shields.io/badge/-styled--components-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-Styled_Components-DA70D6?style=flat&logo=styled-components&logoColor=white">
     </td>
     <td>
       <a href="https://arlagonix.github.io/scrimba-travel-journal/build">
@@ -194,10 +196,10 @@
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
      <img alt="JS" src="https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=white">
      <br>
-     <img src="https://img.shields.io/badge/-ReactJS-61DAFB?&style=flat&logo=react&logoColor=white">
+     <img src="https://img.shields.io/badge/-ReactJS-40E0D0?&style=flat&logo=react&logoColor=white">
      <img src="https://img.shields.io/badge/-Vite-BD34FE?style=flat&logo=vite&logoColor=FFC71F">
      <br>
-     <img src="https://img.shields.io/badge/-styled--components-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-Styled_Components-DA70D6?style=flat&logo=styled-components&logoColor=white">
     </td>
     <td>
       <a href="https://arlagonix.github.io/developer-card/build">
