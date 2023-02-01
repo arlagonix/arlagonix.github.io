@@ -36,10 +36,9 @@
      <br>
      <img src="https://img.shields.io/badge/-ReactJS-40E0D0?&style=flat&logo=react&logoColor=white">
      <img src="https://img.shields.io/badge/-Vite-BD34FE?style=flat&logo=vite&logoColor=FFC71F">
-     <br>
-     <img src="https://img.shields.io/badge/-TailwindCSS-white?style=flat&logo=tailwindcss&logoColor=#06B6D4">
      <img src="https://img.shields.io/badge/-Vitest-FFEA00?style=flat&logo=vitest">
      <br>
+     <img src="https://img.shields.io/badge/-TailwindCSS-white?style=flat&logo=tailwindcss&logoColor=#06B6D4">
      <img src="https://img.shields.io/badge/-Framer_Motion-black?style=flat&logo=framer&logoColor=white">
      <br>
      <img src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white">
