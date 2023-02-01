@@ -1,4 +1,4 @@
-<h1 align="center">My web projects</h1>
+<h1 align="center">My Web Projects</h1>
 <p align="center">
  Pet projects that I've made while learning web technologies
 </p>
