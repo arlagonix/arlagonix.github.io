@@ -21,6 +21,35 @@
     </td>
   </tr>
   
+  <!-- EASY BANK LANDING PAGE -->
+  <tr>
+    <td>
+     <a href="https://github.com/arlagonix/easybank-landing-page">
+      <code>Easy Bank Landing Page</code></a>
+    </td>
+    <td><code>Feb&nbsp;2023</code></td>
+    <td align="center"><code>3 / 10</code></td>
+    <td align="center">
+     <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
+     <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
+     <img src="https://img.shields.io/badge/-TS-2D79C7?style=flat&logo=typescript&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-ReactJS-40E0D0?&style=flat&logo=react&logoColor=white">
+     <img src="https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextdotjs&logoColor=white">
+     <img src="https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-Styled_Components-DA70D6?style=flat&logo=styled-components&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-animejs-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
+    </td>
+    <td>
+      <a href="https://arlagonix.github.io/multi-step-form">
+       Open Demo
+      </a>
+   </td>
+  </tr>
+  
   <!-- MULTI-STEP FORM -->
   <tr>
     <td>
