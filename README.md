@@ -38,6 +38,7 @@
      <img src="https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextdotjs&logoColor=white">
      <img src="https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
      <br>
+     <img src="https://img.shields.io/badge/-Storybook-ff4785?style=flat&logo=storybook&logoColor=white">
      <img src="https://img.shields.io/badge/-Styled_Components-DA70D6?style=flat&logo=styled-components&logoColor=white">
      <br>
      <img src="https://img.shields.io/badge/-animejs-lightgrey?style=flat">
