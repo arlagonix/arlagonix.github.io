@@ -44,7 +44,7 @@
      <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
     </td>
     <td>
-      <a href="https://arlagonix.github.io/multi-step-form">
+      <a href="https://easybank-landing-page-phi-one.vercel.app/">
        Open Demo
       </a>
    </td>
