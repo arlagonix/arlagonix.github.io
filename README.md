@@ -84,7 +84,7 @@
    </td>
   </tr>
   
-  <!-- QUIZZICAL APP -->
+  <!-- COUNTRIES LIST -->
   <tr>
     <td>
      <a href="https://github.com/arlagonix/countries-list">
@@ -146,6 +146,7 @@
      <img src="https://img.shields.io/badge/-CRA-40E0D0?&style=flat&logo=react&logoColor=white">
      <img src="https://img.shields.io/badge/-React_Router-white?style=flat&logo=react-router&logoColor=F44250">
      <br>
+     <img src="https://img.shields.io/badge/-Redux_Toolkit-764abc?style=flat&logo=redux&logoColor=white">
      <img src="https://img.shields.io/badge/-Styled_Components-DA70D6?style=flat&logo=styled-components&logoColor=white">
      <br>
      <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
