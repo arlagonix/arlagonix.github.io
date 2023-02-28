@@ -332,12 +332,12 @@
      <img src="https://img.shields.io/badge/-TS-2D79C7?style=flat&logo=typescript&logoColor=white">
      <br>
      <img src="https://img.shields.io/badge/-Webpack-75AFCC?style=flat&logo=webpack&logoColor=white">
+     <img alt="BEM" src="https://img.shields.io/badge/-BEM-black?style=flat&logo=bem&logoColor=white">
      <br>
      <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
      <img src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
-     <img src="https://img.shields.io/badge/-gherkin-lightgrey?style=flat">
      <br>
-     <img src="https://img.shields.io/badge/-BEM-lightgray?style=flat">
+     <img src="https://img.shields.io/badge/-gherkin-lightgrey?style=flat">
      <img src="https://img.shields.io/badge/-desktop_first-lightgrey?style=flat">
     </td>
     <td>
@@ -359,13 +359,14 @@
     <td align="center">
      <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img src="https://img.shields.io/badge/-Sass-cf649a?style=flat&logo=sass&logoColor=white">
+     <br>
      <img src="https://img.shields.io/badge/-TS-2D79C7?style=flat&logo=typescript&logoColor=white">
+     <img alt="BEM" src="https://img.shields.io/badge/-BEM-black?style=flat&logo=bem&logoColor=white">
      <br>
      <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
      <img src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
-     <img src="https://img.shields.io/badge/-gherkin-lightgrey?style=flat">
      <br>
-     <img src="https://img.shields.io/badge/-BEM-lightgray?style=flat">
+     <img src="https://img.shields.io/badge/-gherkin-lightgrey?style=flat">
      <img src="https://img.shields.io/badge/-desktop_first-lightgrey?style=flat">
     </td>
     <td>
@@ -387,14 +388,15 @@
     <td align="center">
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="SASS" src="https://img.shields.io/badge/-Sass-cf649a?style=flat&logo=sass&logoColor=white">
+     <br>
      <img alt="JS" src="https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=white">
+     <img alt="BEM" src="https://img.shields.io/badge/-BEM-black?style=flat&logo=bem&logoColor=white">
      <br>
      <img alt="Responsive" src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
      <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
      <img alt="API" src="https://img.shields.io/badge/-API-lightgrey?style=flat">
-     <img alt="fetch" src="https://img.shields.io/badge/-fetch-lightgray?style=flat">
      <br>
-     <img alt="BEM" src="https://img.shields.io/badge/-BEM-lightgray?style=flat">
+     <img alt="fetch" src="https://img.shields.io/badge/-fetch-lightgray?style=flat">
      <img alt="Desktop first" src="https://img.shields.io/badge/-desktop_first-lightgrey?style=flat">
     </td>
     <td>
@@ -443,8 +445,8 @@
     <td align="center">
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="SASS" src="https://img.shields.io/badge/-Sass-cf649a?style=flat&logo=sass&logoColor=white">
+     <img alt="BEM" src="https://img.shields.io/badge/-BEM-black?style=flat&logo=bem&logoColor=white">
      <br>
-     <img alt="BEM" src="https://img.shields.io/badge/-BEM-lightgray?style=flat">
      <img alt="Responsive" src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
      <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
      <br>
@@ -469,8 +471,8 @@
     <td align="center">
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
+     <img alt="BEM" src="https://img.shields.io/badge/-BEM-black?style=flat&logo=bem&logoColor=white">
      <br>
-     <img alt="BEM" src="https://img.shields.io/badge/-BEM-lightgray?style=flat">
      <img alt="Responsive" src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
      <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
     </td>
@@ -493,8 +495,8 @@
     <td align="center">
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
+     <img alt="BEM" src="https://img.shields.io/badge/-BEM-black?style=flat&logo=bem&logoColor=white">
      <br>
-     <img alt="BEM" src="https://img.shields.io/badge/-BEM-lightgray?style=flat">
      <img alt="Responsive" src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
      <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
     </td>
@@ -517,8 +519,8 @@
     <td align="center">
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
+     <img alt="BEM" src="https://img.shields.io/badge/-BEM-black?style=flat&logo=bem&logoColor=white">
      <br>
-     <img alt="BEM" src="https://img.shields.io/badge/-BEM-lightgray?style=flat">
      <img alt="Responsive" src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
      <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
      <img alt="Grid" src="https://img.shields.io/badge/-grid-lightgrey?style=flat">
@@ -542,8 +544,8 @@
     <td align="center">
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
+     <img alt="BEM" src="https://img.shields.io/badge/-BEM-black?style=flat&logo=bem&logoColor=white">
      <br>
-     <img alt="BEM" src="https://img.shields.io/badge/-BEM-lightgray?style=flat">
      <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
     </td>
     <td>
@@ -565,8 +567,8 @@
     <td align="center">
      <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
+     <img alt="BEM" src="https://img.shields.io/badge/-BEM-black?style=flat&logo=bem&logoColor=white">
      <br>
-     <img alt="BEM" src="https://img.shields.io/badge/-BEM-lightgray?style=flat">
      <img alt="Responsive" src="https://img.shields.io/badge/-responsive-lightgray?style=flat">
      <img alt="Flexbox" src="https://img.shields.io/badge/-flexbox-lightgrey?style=flat">
     </td>
