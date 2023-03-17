@@ -21,6 +21,32 @@
     </td>
   </tr>
   
+  <!-- RESULTS SUMMARY -->
+  <tr>
+    <td>
+     <a href="https://github.com/arlagonix/results-summary">
+      <code>Results Summary</code>
+     </a>
+    </td>
+    <td><code>Oct&nbsp;2022</code></td>
+    <td align="center"><code>1 / 10</code></td>
+    <td align="center">
+     <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
+     <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
+     <img src="https://img.shields.io/badge/-TS-2D79C7?style=flat&logo=typescript&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-ReactJS-40E0D0?&style=flat&logo=react&logoColor=white">
+     <img src="https://img.shields.io/badge/-Vite-BD34FE?style=flat&logo=vite&logoColor=FFC71F">
+     <br>
+     <img src="https://img.shields.io/badge/-CSS_Modules-white?style=flat&logo=cssmodules&logoColor=black">
+    </td>
+    <td>
+      <a href="https://arlagonix.github.io/results-summary/">
+       Open Demo
+      </a>
+   </td>
+  </tr>
+  
   <!-- EASY BANK LANDING PAGE -->
   <tr>
     <td>
