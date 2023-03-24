@@ -39,6 +39,7 @@
      <img src="https://img.shields.io/badge/-Vite-BD34FE?style=flat&logo=vite&logoColor=FFC71F">
      <br>
      <img src="https://img.shields.io/badge/-CSS_Modules-white?style=flat&logo=cssmodules&logoColor=black">
+     <img src="https://img.shields.io/badge/-Dependabot-0366d6?style=flat&logo=dependabot&logoColor=white">
     </td>
     <td>
       <a href="https://arlagonix.github.io/results-summary/">
@@ -66,6 +67,8 @@
      <br>
      <img src="https://img.shields.io/badge/-Storybook-ff4785?style=flat&logo=storybook&logoColor=white">
      <img src="https://img.shields.io/badge/-Styled_Components-DA70D6?style=flat&logo=styled-components&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-Dependabot-0366d6?style=flat&logo=dependabot&logoColor=white">
      <br>
      <img src="https://img.shields.io/badge/-animejs-lightgrey?style=flat">
      <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
@@ -98,6 +101,7 @@
      <img src="https://img.shields.io/badge/-Framer_Motion-black?style=flat&logo=framer&logoColor=white">
      <br>
      <img src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white">
+     <img src="https://img.shields.io/badge/-Dependabot-0366d6?style=flat&logo=dependabot&logoColor=white">
      <br>
      <img src="https://img.shields.io/badge/-ci/cd-lightgrey?style=flat">
      <img src="https://img.shields.io/badge/-react--final--form-lightgrey?style=flat">
@@ -127,6 +131,7 @@
      <img src="https://img.shields.io/badge/-Vite-BD34FE?style=flat&logo=vite&logoColor=FFC71F">
      <br>
      <img src="https://img.shields.io/badge/-Styled_Components-DA70D6?style=flat&logo=styled-components&logoColor=white">
+     <img src="https://img.shields.io/badge/-Dependabot-0366d6?style=flat&logo=dependabot&logoColor=white">
      <br>
      <img src="https://img.shields.io/badge/-React_Router-white?style=flat&logo=react-router&logoColor=F44250">
      <img src="https://img.shields.io/badge/-React_Query-FF4154?style=flat&logo=react-query&logoColor=white">
