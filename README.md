@@ -17,7 +17,7 @@
     <td colspan="100">
       <strong>Frontend Mentor</strong>
       <br>
-      <sup><a href="https://www.frontendmentor.io/profile/GrbnvAlex">@GrbnvAlex</a></sup>
+      <sup><a href="https://www.frontendmentor.io/profile/arlagonix">@arlagonix</a></sup>
     </td>
   </tr>
   
@@ -275,7 +275,7 @@
     <td colspan="100">
       <strong>Frontend Mentor</strong>
       <br>
-      <sup><a href="https://www.frontendmentor.io/profile/GrbnvAlex">@GrbnvAlex</a></sup>
+      <sup><a href="https://www.frontendmentor.io/profile/arlagonix">@arlagonix</a></sup>
     </td>
   </tr>
   
