@@ -48,7 +48,7 @@
      <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
     </td>
     <td>
-      <a href="https://arlagonix.github.io/results-summary/">
+      <a href="https://arlagonix.github.io/clocks/">
        Open Demo
       </a>
    </td>
