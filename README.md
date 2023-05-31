@@ -20,6 +20,39 @@
       <sup><a href="https://www.frontendmentor.io/profile/arlagonix">@arlagonix</a></sup>
     </td>
   </tr>
+ 
+ <!-- CLOCKS -->
+  <tr>
+    <td>
+     <a href="https://github.com/arlagonix/clocks">
+      <code>Clocks</code>
+     </a>
+    </td>
+    <td><code>May&nbsp;2023</code></td>
+    <td align="center"><code>4 / 10</code></td>
+    <td align="center">
+     <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
+     <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
+     <img src="https://img.shields.io/badge/-TS-2D79C7?style=flat&logo=typescript&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-ReactJS-40E0D0?&style=flat&logo=react&logoColor=white">
+     <img src="https://img.shields.io/badge/-Vite-BD34FE?style=flat&logo=vite&logoColor=FFC71F">
+     <img src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-CSS_Modules-white?style=flat&logo=cssmodules&logoColor=black">
+     <img src="https://img.shields.io/badge/-Dependabot-0366d6?style=flat&logo=dependabot&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-Material_UI-007FFF?style=flat&logo=mui&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-ci/cd-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
+    </td>
+    <td>
+      <a href="https://arlagonix.github.io/results-summary/">
+       Open Demo
+      </a>
+   </td>
+  </tr>
   
   <!-- RESULTS SUMMARY -->
   <tr>
@@ -32,14 +65,18 @@
     <td align="center"><code>1 / 10</code></td>
     <td align="center">
      <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
-     <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
+     <img src="https://img.shields.io/badge/-Sass-cf649a?style=flat&logo=sass&logoColor=white">
      <img src="https://img.shields.io/badge/-TS-2D79C7?style=flat&logo=typescript&logoColor=white">
      <br>
      <img src="https://img.shields.io/badge/-ReactJS-40E0D0?&style=flat&logo=react&logoColor=white">
      <img src="https://img.shields.io/badge/-Vite-BD34FE?style=flat&logo=vite&logoColor=FFC71F">
+     <img src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white">
      <br>
      <img src="https://img.shields.io/badge/-CSS_Modules-white?style=flat&logo=cssmodules&logoColor=black">
      <img src="https://img.shields.io/badge/-Dependabot-0366d6?style=flat&logo=dependabot&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-ci/cd-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
     </td>
     <td>
       <a href="https://arlagonix.github.io/results-summary/">
