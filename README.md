@@ -29,7 +29,7 @@
      </a>
     </td>
     <td><code>May&nbsp;2023</code></td>
-    <td align="center"><code>4 / 10</code></td>
+    <td align="center"><code>2 / 10</code></td>
     <td align="center">
      <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
