@@ -26,7 +26,7 @@
     <td>
      <a href="https://github.com/arlagonix/clocks">
       <code>Clocks</code>
-     </a>
+     </a> ⭐
     </td>
     <td><code>May&nbsp;2023</code></td>
     <td align="center"><code>2 / 10</code></td>
