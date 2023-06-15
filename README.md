@@ -41,7 +41,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/trolley-problem-memes/">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
@@ -74,7 +74,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/clocks/">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
@@ -113,7 +113,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/results-summary/">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
@@ -145,7 +145,7 @@
     </td>
     <td>
       <a href="https://easybank-landing-page-phi-one.vercel.app/">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
@@ -179,7 +179,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/multi-step-form">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
@@ -217,7 +217,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/countries-list">
-       Open&nbsp;Demo
+       Open
       </a>
    </td>
   </tr>
@@ -256,7 +256,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/quizzical-app">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
@@ -284,7 +284,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/tenzies/build">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
@@ -310,7 +310,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/scrimba-travel-journal/build">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
@@ -336,7 +336,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/developer-card/build">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
@@ -369,7 +369,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/news-homepage/build">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
@@ -392,7 +392,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/3-column-preview/build">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
@@ -415,7 +415,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/nft-preview-card/build">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
@@ -444,7 +444,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/todo-app/build">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
@@ -473,7 +473,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/interactive-rating-frontendmentor">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
@@ -503,7 +503,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/advice-generator-app-frontendmentor/public">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
@@ -530,7 +530,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/calculator-app-frontendmentor/public">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
@@ -556,7 +556,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/stats-preview-card-frontendmentor/">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
@@ -580,7 +580,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/order-summary-card-frontendmentor">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
@@ -604,7 +604,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/chat-app-css-illustration-frontendmentor">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
@@ -629,7 +629,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/testimonials-grid-section-frontendmentor">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
@@ -652,7 +652,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/qr-code-frontendmentor">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
@@ -676,7 +676,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/product-preview-card-frontendmentor">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
@@ -710,7 +710,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/freecodecamp-portfolio-page">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
@@ -733,7 +733,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/freecodecamp-product-landing-page">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
@@ -756,7 +756,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/freecodecamp-js-documentation">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
@@ -779,7 +779,7 @@
     </td>
     <td>
       <a href="https://arlagonix.github.io/freecodecamp-tribute-page/">
-       Open Demo
+       Open
       </a>
    </td>
   </tr>
