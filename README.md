@@ -18,7 +18,7 @@
     <td>
      <a href="https://github.com/arlagonix/trolley-problem-memes">
       <code>Trolley Problem Memes</code>
-     </a> ⭐
+     </a>
     </td>
     <td><code>June&nbsp;2023</code></td>
     <td align="center"><code>4 / 10</code></td>
