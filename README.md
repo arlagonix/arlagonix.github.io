@@ -12,6 +12,40 @@
     <th>Tags</th>
     <th>Demo</th>
   </tr>
+
+  <!-- HALF-LIFE 2 STARTING SCREEN -->
+  <tr>
+    <td>
+     <a href="https://github.com/arlagonix/half-life-screen">
+      <code>Half-Life 2 Starting Screen</code>
+     </a>
+    </td>
+    <td><code>Jul&nbsp;2023</code></td>
+    <td align="center"><code>7 / 10</code></td>
+    <td align="center">
+     <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
+     <img src="https://img.shields.io/badge/-Sass-cf649a?style=flat&logo=sass&logoColor=white">
+     <img src="https://img.shields.io/badge/-TS-2D79C7?style=flat&logo=typescript&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-ReactJS-087EA4?&style=flat&logo=react&logoColor=white">
+     <img src="https://img.shields.io/badge/-Vite-BD34FE?style=flat&logo=vite&logoColor=FFC71F">
+     <img src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-CSS_Modules-white?style=flat&logo=cssmodules&logoColor=black">
+     <img src="https://img.shields.io/badge/-Dependabot-0366d6?style=flat&logo=dependabot&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-i18next-26a69a?style=flat&logo=i18next&logoColor=white">
+     <img src="https://img.shields.io/badge/-Vitest-FFEA00?style=flat&logo=vitest">
+     <br>
+     <img src="https://img.shields.io/badge/-ci/cd-lightgrey?style=flat">
+     <img src="https://img.shields.io/badge/-localization-lightgrey?style=flat">
+    </td>
+    <td>
+      <a href="https://arlagonix.github.io/trolley-problem-memes/">
+       Open
+      </a>
+   </td>
+  </tr>
   
   <!-- TROLLEY PROBLEM MEMES -->
   <tr>
