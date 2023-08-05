@@ -21,7 +21,7 @@
      </a>
     </td>
     <td><code>Jul&nbsp;2023</code></td>
-    <td align="center"><code>7 / 10</code></td>
+    <td align="center"><code>6 / 10</code></td>
     <td align="center">
      <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
      <img src="https://img.shields.io/badge/-Sass-cf649a?style=flat&logo=sass&logoColor=white">
