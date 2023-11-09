@@ -84,8 +84,7 @@
   <tr>
     <td>
      <a href="https://github.com/arlagonix/clocks">
-      <code>Clocks</code>
-     </a> ⭐
+      <code>Clocks</code></a> ⭐
     </td>
     <td><code>May&nbsp;2023</code></td>
     <td align="center"><code>4 / 10</code></td>
