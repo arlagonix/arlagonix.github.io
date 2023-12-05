@@ -41,7 +41,7 @@
      <img src="https://img.shields.io/badge/-localization-lightgrey?style=flat">
     </td>
     <td>
-      <a href="https://arlagonix.github.io/trolley-problem-memes/">
+      <a href="https://arlagonix.github.io/half-life-screen/">
        Open
       </a>
    </td>
