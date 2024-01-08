@@ -13,7 +13,7 @@
     <th>Demo</th>
   </tr>
 
-    <!-- PARTICIPANTS STATS -->
+  <!-- PARTICIPANTS STATS -->
   <tr>
     <td>
      <a href="https://github.com/arlagonix/participants-stats">
