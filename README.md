@@ -32,7 +32,6 @@
      <img src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white">
      <br>
      <img src="https://img.shields.io/badge/-CSS_Modules-white?style=flat&logo=cssmodules&logoColor=black">
-     <br>
      <img src="https://img.shields.io/badge/-ci/cd-lightgrey?style=flat">
     </td>
     <td>
