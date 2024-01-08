@@ -13,6 +13,35 @@
     <th>Demo</th>
   </tr>
 
+    <!-- PARTICIPANTS STATS -->
+  <tr>
+    <td>
+     <a href="https://github.com/arlagonix/participants-stats">
+      <code>Participants Stats</code>
+     </a>
+    </td>
+    <td><code>Jan&nbsp;2024</code></td>
+    <td align="center"><code>4 / 10</code></td>
+    <td align="center">
+     <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
+     <img src="https://img.shields.io/badge/-Sass-cf649a?style=flat&logo=sass&logoColor=white">
+     <img src="https://img.shields.io/badge/-TS-2D79C7?style=flat&logo=typescript&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-ReactJS-087EA4?&style=flat&logo=react&logoColor=white">
+     <img src="https://img.shields.io/badge/-Vite-BD34FE?style=flat&logo=vite&logoColor=FFC71F">
+     <img src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-CSS_Modules-white?style=flat&logo=cssmodules&logoColor=black">
+     <br>
+     <img src="https://img.shields.io/badge/-ci/cd-lightgrey?style=flat">
+    </td>
+    <td>
+      <a href="https://arlagonix.github.io/participants-stats/">
+       Open
+      </a>
+   </td>
+  </tr>
+
   <!-- HALF-LIFE 2 STARTING SCREEN -->
   <tr>
     <td>
