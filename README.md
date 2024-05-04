@@ -13,6 +13,24 @@
     <th>Demo</th>
   </tr>
 
+  <!-- PHOTO VIDEO OPTIMIZATION -->
+  <tr>
+    <td>
+     <a href="https://github.com/arlagonix/photo-video-optimization">
+      <code>Photo & Video Optimization</code>
+     </a>
+    </td>
+    <td><code>May&nbsp;2024</code></td>
+    <td align="center"><code>4 / 10</code></td>
+    <td align="center">
+     <img alt="JS" src="https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=white">
+     <img src="https://img.shields.io/badge/-NodeJS-5FA04E?style=flat&logo=nodedotjs&logoColor=white">
+    </td>
+    <td>
+      n/a
+   </td>
+  </tr>
+
   <!-- PARTICIPANTS STATS -->
   <tr>
     <td>
