@@ -17,7 +17,7 @@
   <tr>
     <td>
      <a href="https://github.com/arlagonix/dance-school-moscow">
-      <code>D.A.N.C.E. School Redesign</code></a>
+      <code>D.A.N.C.E. School Redesign</code></a>  ⭐
     </td>
     <td><code>Aug&nbsp;2024</code></td>
     <td align="center"><code>6 / 10</code></td>
