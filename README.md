@@ -13,6 +13,36 @@
     <th>Demo</th>
   </tr>
 
+  <!-- D.A.N.C.E. School Redesign -->
+  <tr>
+    <td>
+     <a href="https://github.com/arlagonix/dance-school-moscow">
+      <code>D.A.N.C.E. School Redesign</code></a>
+    </td>
+    <td><code>Aug&nbsp;2024</code></td>
+    <td align="center"><code>6 / 10</code></td>
+    <td align="center">
+     <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
+     <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
+     <img src="https://img.shields.io/badge/-TS-2D79C7?style=flat&logo=typescript&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-ReactJS-087EA4?&style=flat&logo=react&logoColor=white">
+     <img src="https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextdotjs&logoColor=white">
+     <img src="https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-TailwindCSS-white?style=flat&logo=tailwindcss&logoColor=#06B6D4">
+     <img src="https://img.shields.io/badge/-shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-Vitest-FFEA00?style=flat&logo=vitest">
+     <img src="https://img.shields.io/badge/-responsive-lightgrey?style=flat">
+    </td>
+    <td>
+      <a href="https://dance-school-moscow.vercel.app/">
+       Open
+      </a>
+   </td>
+  </tr>
+
   <!-- PHOTO VIDEO OPTIMIZATION -->
   <tr>
     <td>
