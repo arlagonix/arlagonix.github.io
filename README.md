@@ -23,8 +23,8 @@
     <td><code>Sep&nbsp;2024</code></td>
     <td align="center"><code>2 / 10</code></td>
     <td align="center">
-     <img alt="JS" src="https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=white">
-     <img src="https://img.shields.io/badge/-Electron-9feaf9?style=flat&logo=electron&logoColor=black">
+     <img alt="JS" src="https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=white" height="20">
+     <img src="https://img.shields.io/badge/-Electron-9feaf9?style=flat&logo=electron&logoColor=black" height="20">
     </td>
     <td>
       n/a
