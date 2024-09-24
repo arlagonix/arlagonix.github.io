@@ -9,7 +9,7 @@
     <th>Project</th>
     <th>Date</th>
     <th>Complexity</th>
-    <th width="500">Tags</th>
+    <th min>Tags</th>
     <th>Demo</th>
   </tr>
 
