@@ -9,7 +9,7 @@
     <th>Project</th>
     <th>Date</th>
     <th>Complexity</th>
-    <th>Tags</th>
+    <th width="500">Tags</th>
     <th>Demo</th>
   </tr>
 
@@ -24,7 +24,6 @@
     <td align="center"><code>2 / 10</code></td>
     <td align="center">
      <img alt="JS" src="https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=white">
-      &nbsp;
      <img src="https://img.shields.io/badge/-Electron-9feaf9?style=flat&logo=electron&logoColor=black">
     </td>
     <td>
