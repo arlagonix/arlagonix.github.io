@@ -20,7 +20,7 @@
       <code>WildBerries Screenshot App</code>
      </a>
     </td>
-    <td><code>May&nbsp;2024</code></td>
+    <td><code>Sep&nbsp;2024</code></td>
     <td align="center"><code>2 / 10</code></td>
     <td align="center">
      <img alt="JS" src="https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=white">
