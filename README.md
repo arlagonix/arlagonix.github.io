@@ -13,6 +13,30 @@
     <th>Demo</th>
   </tr>
 
+     <!-- NESTJS TODO APP -->
+  <tr>
+    <td>
+     <a href="https://github.com/arlagonix/todo-nestjs">
+      <code>Todo NestJS</code>
+     </a>
+    </td>
+    <td><code>Oct&nbsp;2024</code></td>
+    <td align="center"><code>3 / 10</code></td>
+    <td align="center">
+     <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
+     <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
+     <img src="https://img.shields.io/badge/-TS-2D79C7?style=flat&logo=typescript&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-ReactJS-087EA4?&style=flat&logo=react&logoColor=white">
+     <img src="https://img.shields.io/badge/-NestJS-black?style=flat&logo=nestjs&logoColor=red" height="20">
+     <br>
+     <img src="https://img.shields.io/badge/-fullstack-lightgrey?style=flat">
+    </td>
+    <td>
+      n/a
+   </td>
+  </tr>
+
    <!-- WILDBERRIES SCREENSHOT APP -->
   <tr>
     <td>
