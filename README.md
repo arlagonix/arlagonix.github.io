@@ -13,6 +13,27 @@
     <th>Demo</th>
   </tr>
 
+  <!-- ANGULAR RECIPE PAGE -->
+  <tr>
+    <td>
+     <a href="https://github.com/arlagonix/recipe-page-angular">
+      <code>Angular Recipe Page</code>
+     </a>
+    </td>
+    <td><code>Oct&nbsp;2024</code></td>
+    <td align="center"><code>1 / 10</code></td>
+    <td align="center">
+     <img src="https://img.shields.io/badge/-HTML-red?style=flat&logo=html5&logoColor=white">
+     <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white">
+     <img src="https://img.shields.io/badge/-TS-2D79C7?style=flat&logo=typescript&logoColor=white">
+     <br>
+     <img src="https://img.shields.io/badge/-Angular-purple?&style=flat&logo=angular&logoColor=white">
+    </td>
+    <td>
+      n/a
+   </td>
+  </tr>
+
   <!-- NESTJS TODO APP -->
   <tr>
     <td>
