@@ -30,7 +30,9 @@
      <img src="https://img.shields.io/badge/-Angular-purple?&style=flat&logo=angular&logoColor=white">
     </td>
     <td>
-      n/a
+      <a href="https://arlagonix.github.io/recipe-page-angular/">
+       Open
+      </a>
    </td>
   </tr>
 
